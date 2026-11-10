@@ -45,21 +45,6 @@ article {
   border: 1px solid #ccc;
 }
 
-dl {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 4px 16px;
-  margin: 0 0 8px;
-}
-
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin: 0;
-}
-
 table {
   display: block;
   margin-top: 16px;
