@@ -39,6 +39,24 @@ button {
   font: inherit;
 }
 
+[role="tablist"] {
+  display: flex;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #ccc;
+}
+
+[role="tab"] {
+  border: 0;
+  border-bottom: 3px solid transparent;
+  background: none;
+  cursor: pointer;
+}
+
+[role="tab"][aria-selected="true"] {
+  border-bottom-color: #171717;
+  font-weight: bold;
+}
+
 article {
   margin-top: 16px;
   padding: 16px;

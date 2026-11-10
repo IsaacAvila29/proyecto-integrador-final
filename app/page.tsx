@@ -2,6 +2,7 @@
 
 import { useState, type SubmitEvent } from "react";
 import datos from "@/data/usuarios.json";
+import datosNoSecuenciales from "@/data/usuarios-no-secuenciales.json";
 import { busquedaInterpolacion } from "@/lib/busqueda";
 
 // Hace varias búsquedas sobre una lista y devuelve una fila para la tabla.
@@ -49,12 +50,23 @@ function medir() {
 }
 
 export default function Page() {
-  // La lista se ordena una sola vez, al cargarla.
-  const [usuarios] = useState(() => [...datos].sort((a, b) => a.id - b.id));
+  // Las listas se ordenan una sola vez, al cargarlas.
+  const [secuenciales] = useState(() => [...datos].sort((a, b) => a.id - b.id));
+  const [noSecuenciales] = useState(() => [...datosNoSecuenciales].sort((a, b) => a.id - b.id));
+  const [listaElegida, setListaElegida] = useState("secuenciales");
+  const usuarios = listaElegida === "secuenciales" ? secuenciales : noSecuenciales;
+
   const [texto, setTexto] = useState("");
   const [indice, setIndice] = useState(-1);
   const [mensaje, setMensaje] = useState("");
   const [filas, setFilas] = useState<string[][]>([]);
+
+  function cambiarLista(lista: string) {
+    setListaElegida(lista);
+    // El resultado anterior era de la otra lista: se limpia.
+    setIndice(-1);
+    setMensaje("");
+  }
 
   function buscar(evento: SubmitEvent<HTMLFormElement>) {
     evento.preventDefault();
@@ -78,10 +90,32 @@ export default function Page() {
   return (
     <main>
       <h1>Búsqueda por interpolación</h1>
-      <p>{usuarios.length} usuarios</p>
 
       <section>
         <h2>Buscar usuario</h2>
+        <div role="tablist">
+          <button
+            type="button"
+            role="tab"
+            aria-selected={listaElegida === "secuenciales"}
+            onClick={() => cambiarLista("secuenciales")}
+          >
+            Ids secuenciales
+          </button>
+          <button
+            type="button"
+            role="tab"
+            aria-selected={listaElegida === "no-secuenciales"}
+            onClick={() => cambiarLista("no-secuenciales")}
+          >
+            Ids no secuenciales
+          </button>
+        </div>
+        <p>
+          {usuarios.length} usuarios, ids del {usuarios[0].id} al {usuarios[usuarios.length - 1].id}
+          . Primeros ids: {usuarios[0].id}, {usuarios[1].id}, {usuarios[2].id}, {usuarios[3].id},{" "}
+          {usuarios[4].id}
+        </p>
         <form onSubmit={buscar} noValidate>
           <label htmlFor="id-usuario">Id del usuario:</label>
           <input
