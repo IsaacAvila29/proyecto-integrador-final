@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 286,
+    "nombre": "Nicolás",
+    "apellido": "Ramírez",
+    "departamento": "Tecnología",
+    "salario": 58500
+  },
+  {
+    "id": 585,
+    "nombre": "Valeria",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 18000
+  },
+  {
+    "id": 483,
+    "nombre": "Rodrigo",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 19000
+  },
+  {
+    "id": 116,
+    "nombre": "Héctor",
+    "apellido": "Hernández",
+    "departamento": "Ventas",
+    "salario": 64000
+  },
+  {
+    "id": 632,
+    "nombre": "Ana",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 41500
+  },
+  {
+    "id": 951,
+    "nombre": "Rodrigo",
+    "apellido": "Rojas",
+    "departamento": "Ventas",
+    "salario": 34500
+  },
+  {
+    "id": 207,
+    "nombre": "Fernanda",
+    "apellido": "Mendoza",
+    "departamento": "Recursos Humanos",
+    "salario": 40000
+  },
+  {
+    "id": 195,
+    "nombre": "Bruno",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 32500
+  },
+  {
+    "id": 390,
+    "nombre": "Gabriela",
+    "apellido": "Soto",
+    "departamento": "Producción",
+    "salario": 40500
+  },
+  {
+    "id": 693,
+    "nombre": "Sofía",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 53500
+  },
+  {
+    "id": 75,
+    "nombre": "Andrés",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 44500
+  },
+  {
+    "id": 508,
+    "nombre": "Iván",
+    "apellido": "Vega",
+    "departamento": "Ventas",
+    "salario": 27500
+  },
+  {
+    "id": 324,
+    "nombre": "Regina",
+    "apellido": "Sánchez",
+    "departamento": "Recursos Humanos",
+    "salario": 16000
+  },
+  {
+    "id": 168,
+    "nombre": "Joaquín",
+    "apellido": "Hernández",
+    "departamento": "Calidad",
+    "salario": 66000
+  },
+  {
+    "id": 430,
+    "nombre": "Santiago",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 18500
+  },
+  {
+    "id": 270,
+    "nombre": "Alejandra",
+    "apellido": "Escobar",
+    "departamento": "Recursos Humanos",
+    "salario": 52000
+  },
+  {
+    "id": 510,
+    "nombre": "Santiago",
+    "apellido": "Soto",
+    "departamento": "Calidad",
+    "salario": 55500
+  },
+  {
+    "id": 876,
+    "nombre": "Mariana",
+    "apellido": "Escobar",
+    "departamento": "Ventas",
+    "salario": 47500
+  },
+  {
+    "id": 796,
+    "nombre": "Fernanda",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 19500
+  },
+  {
+    "id": 804,
+    "nombre": "Diego",
+    "apellido": "Morales",
+    "departamento": "Producción",
+    "salario": 57500
+  },
+  {
+    "id": 354,
+    "nombre": "Alejandra",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 26500
+  },
+  {
+    "id": 635,
+    "nombre": "Mateo",
+    "apellido": "Navarro",
+    "departamento": "Recursos Humanos",
+    "salario": 30000
+  },
+  {
+    "id": 497,
+    "nombre": "Valeria",
+    "apellido": "Jiménez",
+    "departamento": "Tecnología",
+    "salario": 55000
+  },
+  {
+    "id": 219,
+    "nombre": "Ana",
+    "apellido": "Soto",
+    "departamento": "Recursos Humanos",
+    "salario": 50000
+  },
+  {
+    "id": 765,
+    "nombre": "Regina",
+    "apellido": "Salazar",
+    "departamento": "Producción",
+    "salario": 15500
+  },
+  {
+    "id": 545,
+    "nombre": "Emiliano",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 31000
+  },
+  {
+    "id": 222,
+    "nombre": "Rodrigo",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 48500
+  },
+  {
+    "id": 777,
+    "nombre": "Leonardo",
+    "apellido": "Vega",
+    "departamento": "Producción",
+    "salario": 36000
+  },
+  {
+    "id": 828,
+    "nombre": "Alejandro",
+    "apellido": "García",
+    "departamento": "Ventas",
+    "salario": 54500
+  },
+  {
+    "id": 794,
+    "nombre": "Sofía",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 58500
+  },
+  {
+    "id": 494,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 57000
+  },
+  {
+    "id": 903,
+    "nombre": "Montserrat",
+    "apellido": "Rojas",
+    "departamento": "Tecnología",
+    "salario": 30000
+  },
+  {
+    "id": 735,
+    "nombre": "Abril",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 41000
+  },
+  {
+    "id": 856,
+    "nombre": "Ana",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 15500
+  },
+  {
+    "id": 484,
+    "nombre": "Santiago",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 31000
+  },
+  {
+    "id": 424,
+    "nombre": "Montserrat",
+    "apellido": "Vega",
+    "departamento": "Tecnología",
+    "salario": 36500
+  },
+  {
+    "id": 622,
+    "nombre": "Lucía",
+    "apellido": "Rojas",
+    "departamento": "Ventas",
+    "salario": 46500
+  },
+  {
+    "id": 352,
+    "nombre": "Tomás",
+    "apellido": "Medina",
+    "departamento": "Ventas",
+    "salario": 22000
+  },
+  {
+    "id": 85,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 15500
+  },
+  {
+    "id": 521,
+    "nombre": "Santiago",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 40000
+  },
+  {
+    "id": 922,
+    "nombre": "Daniela",
+    "apellido": "Salazar",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 593,
+    "nombre": "Ana",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 38000
+  },
+  {
+    "id": 500,
+    "nombre": "Leonardo",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 33000
+  },
+  {
+    "id": 25,
+    "nombre": "Montserrat",
+    "apellido": "Morales",
+    "departamento": "Tecnología",
+    "salario": 23000
+  },
+  {
+    "id": 226,
+    "nombre": "Héctor",
+    "apellido": "Navarro",
+    "departamento": "Operaciones",
+    "salario": 59000
+  },
+  {
+    "id": 946,
+    "nombre": "Mateo",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 17000
+  },
+  {
+    "id": 259,
+    "nombre": "Ana",
+    "apellido": "Ortiz",
+    "departamento": "Ventas",
+    "salario": 61000
+  },
+  {
+    "id": 57,
+    "nombre": "Bruno",
+    "apellido": "Paredes",
+    "departamento": "Ventas",
+    "salario": 33000
+  },
+  {
+    "id": 367,
+    "nombre": "Montserrat",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 15500
+  },
+  {
+    "id": 54,
+    "nombre": "Valeria",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 53000
+  },
+  {
+    "id": 134,
+    "nombre": "Andrés",
+    "apellido": "Cortés",
+    "departamento": "Producción",
+    "salario": 35500
+  },
+  {
+    "id": 480,
+    "nombre": "Emiliano",
+    "apellido": "Ramírez",
+    "departamento": "Producción",
+    "salario": 42000
+  },
+  {
+    "id": 481,
+    "nombre": "Camila",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 43500
+  },
+  {
+    "id": 392,
+    "nombre": "Alejandra",
+    "apellido": "Cortés",
+    "departamento": "Ventas",
+    "salario": 51000
+  },
+  {
+    "id": 182,
+    "nombre": "Leonardo",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 66000
+  },
+  {
+    "id": 926,
+    "nombre": "Héctor",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 57000
+  },
+  {
+    "id": 524,
+    "nombre": "Renata",
+    "apellido": "Torres",
+    "departamento": "Calidad",
+    "salario": 17000
+  },
+  {
+    "id": 469,
+    "nombre": "Ximena",
+    "apellido": "Mendoza",
+    "departamento": "Producción",
+    "salario": 69000
+  },
+  {
+    "id": 79,
+    "nombre": "Daniela",
+    "apellido": "Hernández",
+    "departamento": "Ventas",
+    "salario": 21000
+  },
+  {
+    "id": 996,
+    "nombre": "Julián",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 229,
+    "nombre": "Diego",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 53000
+  },
+  {
+    "id": 531,
+    "nombre": "Leonardo",
+    "apellido": "Cortés",
+    "departamento": "Operaciones",
+    "salario": 43500
+  },
+  {
+    "id": 858,
+    "nombre": "Iván",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 62500
+  },
+  {
+    "id": 937,
+    "nombre": "Alejandro",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 28000
+  },
+  {
+    "id": 868,
+    "nombre": "Leonardo",
+    "apellido": "Salazar",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 15,
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 61500
+  },
+  {
+    "id": 181,
+    "nombre": "Joaquín",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 29000
+  },
+  {
+    "id": 65,
+    "nombre": "Abril",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 62500
+  },
+  {
+    "id": 400,
+    "nombre": "Montserrat",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 27500
+  },
+  {
+    "id": 821,
+    "nombre": "Julián",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 50000
+  },
+  {
+    "id": 73,
+    "nombre": "Ximena",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 58000
+  },
+  {
+    "id": 760,
+    "nombre": "Gabriela",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 56000
+  },
+  {
+    "id": 489,
+    "nombre": "Regina",
+    "apellido": "Reyes",
+    "departamento": "Ventas",
+    "salario": 29500
+  },
+  {
+    "id": 443,
+    "nombre": "Tomás",
+    "apellido": "López",
+    "departamento": "Finanzas",
+    "salario": 67000
+  },
+  {
+    "id": 956,
+    "nombre": "Nicolás",
+    "apellido": "Salazar",
+    "departamento": "Ventas",
+    "salario": 44500
+  },
+  {
+    "id": 239,
+    "nombre": "Mariana",
+    "apellido": "Hernández",
+    "departamento": "Tecnología",
+    "salario": 57500
+  },
+  {
+    "id": 880,
+    "nombre": "Ana",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 24000
+  },
+  {
+    "id": 408,
+    "nombre": "Fernanda",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 53500
+  },
+  {
+    "id": 161,
+    "nombre": "Lucía",
+    "apellido": "Torres",
+    "departamento": "Operaciones",
+    "salario": 57000
+  },
+  {
+    "id": 351,
+    "nombre": "Julián",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 45500
+  },
+  {
+    "id": 846,
+    "nombre": "Gabriela",
+    "apellido": "Luna",
+    "departamento": "Mercadotecnia",
+    "salario": 55000
+  },
+  {
+    "id": 897,
+    "nombre": "Iván",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 33500
+  },
+  {
+    "id": 112,
+    "nombre": "Mariana",
+    "apellido": "Flores",
+    "departamento": "Operaciones",
+    "salario": 45000
+  },
+  {
+    "id": 202,
+    "nombre": "Regina",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 34000
+  },
+  {
+    "id": 45,
+    "nombre": "Nicolás",
+    "apellido": "Soto",
+    "departamento": "Calidad",
+    "salario": 32000
+  },
+  {
+    "id": 567,
+    "nombre": "Ximena",
+    "apellido": "Cruz",
+    "departamento": "Mercadotecnia",
+    "salario": 43000
+  },
+  {
+    "id": 829,
+    "nombre": "Valeria",
+    "apellido": "Escobar",
+    "departamento": "Calidad",
+    "salario": 52500
+  },
+  {
+    "id": 82,
+    "nombre": "Leonardo",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 35000
+  },
+  {
+    "id": 171,
+    "nombre": "Ximena",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 59000
+  },
+  {
+    "id": 513,
+    "nombre": "Santiago",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 56500
+  },
+  {
+    "id": 636,
+    "nombre": "Diego",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 37000
+  },
+  {
+    "id": 299,
+    "nombre": "Alejandro",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 19000
+  },
+  {
+    "id": 685,
+    "nombre": "Sofía",
+    "apellido": "Hernández",
+    "departamento": "Finanzas",
+    "salario": 28000
+  },
+  {
+    "id": 712,
+    "nombre": "Alejandra",
+    "apellido": "Torres",
+    "departamento": "Operaciones",
+    "salario": 56000
+  },
+  {
+    "id": 757,
+    "nombre": "Abril",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 41500
+  },
+  {
+    "id": 295,
+    "nombre": "Tomás",
+    "apellido": "Mendoza",
+    "departamento": "Recursos Humanos",
+    "salario": 51000
+  },
+  {
+    "id": 126,
+    "nombre": "Bruno",
+    "apellido": "Soto",
+    "departamento": "Calidad",
+    "salario": 28500
+  },
+  {
+    "id": 914,
+    "nombre": "Mariana",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 27500
+  },
+  {
+    "id": 289,
+    "nombre": "Gabriela",
+    "apellido": "Jiménez",
+    "departamento": "Ventas",
+    "salario": 51000
+  },
+  {
+    "id": 610,
+    "nombre": "Valeria",
+    "apellido": "Mendoza",
+    "departamento": "Ventas",
+    "salario": 42500
+  },
+  {
+    "id": 696,
+    "nombre": "Sebastián",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 34000
+  },
+  {
+    "id": 883,
+    "nombre": "Montserrat",
+    "apellido": "Navarro",
+    "departamento": "Recursos Humanos",
+    "salario": 28500
+  },
+  {
+    "id": 327,
+    "nombre": "Regina",
+    "apellido": "Reyes",
+    "departamento": "Producción",
+    "salario": 19500
+  },
+  {
+    "id": 44,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 34000
+  },
+  {
+    "id": 13,
+    "nombre": "Santiago",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 36500
+  },
+  {
+    "id": 548,
+    "nombre": "Fernanda",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 69500
+  },
+  {
+    "id": 118,
+    "nombre": "Abril",
+    "apellido": "Torres",
+    "departamento": "Ventas",
+    "salario": 21500
+  },
+  {
+    "id": 895,
+    "nombre": "Paola",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 63500
+  },
+  {
+    "id": 674,
+    "nombre": "Rodrigo",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 61500
+  },
+  {
+    "id": 313,
+    "nombre": "Mariana",
+    "apellido": "Jiménez",
+    "departamento": "Ventas",
+    "salario": 55000
+  },
+  {
+    "id": 89,
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "departamento": "Recursos Humanos",
+    "salario": 68000
+  },
+  {
+    "id": 147,
+    "nombre": "Fernanda",
+    "apellido": "Ríos",
+    "departamento": "Recursos Humanos",
+    "salario": 24500
+  },
+  {
+    "id": 464,
+    "nombre": "Mateo",
+    "apellido": "Cruz",
+    "departamento": "Producción",
+    "salario": 34500
+  },
+  {
+    "id": 53,
+    "nombre": "Tomás",
+    "apellido": "Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 20500
+  },
+  {
+    "id": 344,
+    "nombre": "Mariana",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 57000
+  },
+  {
+    "id": 950,
+    "nombre": "Diego",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 17000
+  },
+  {
+    "id": 385,
+    "nombre": "Alejandro",
+    "apellido": "Soto",
+    "departamento": "Producción",
+    "salario": 27000
+  },
+  {
+    "id": 959,
+    "nombre": "Rodrigo",
+    "apellido": "Paredes",
+    "departamento": "Mercadotecnia",
+    "salario": 41000
+  },
+  {
+    "id": 193,
+    "nombre": "Regina",
+    "apellido": "Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 32500
+  },
+  {
+    "id": 284,
+    "nombre": "Regina",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 35000
+  },
+  {
+    "id": 303,
+    "nombre": "Sofía",
+    "apellido": "Cruz",
+    "departamento": "Producción",
+    "salario": 21500
+  },
+  {
+    "id": 982,
+    "nombre": "Joaquín",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 66500
+  },
+  {
+    "id": 929,
+    "nombre": "Julián",
+    "apellido": "Cruz",
+    "departamento": "Producción",
+    "salario": 47000
+  },
+  {
+    "id": 700,
+    "nombre": "Nicolás",
+    "apellido": "Escobar",
+    "departamento": "Finanzas",
+    "salario": 58500
+  },
+  {
+    "id": 1,
+    "nombre": "Fernanda",
+    "apellido": "Soto",
+    "departamento": "Mercadotecnia",
+    "salario": 47500
+  },
+  {
+    "id": 818,
+    "nombre": "Alejandro",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 47500
+  },
+  {
+    "id": 154,
+    "nombre": "Valeria",
+    "apellido": "Salazar",
+    "departamento": "Tecnología",
+    "salario": 29500
+  },
+  {
+    "id": 807,
+    "nombre": "Nicolás",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 27000
+  },
+  {
+    "id": 816,
+    "nombre": "Renata",
+    "apellido": "Salazar",
+    "departamento": "Operaciones",
+    "salario": 23000
+  },
+  {
+    "id": 564,
+    "nombre": "Bruno",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 44500
+  },
+  {
+    "id": 623,
+    "nombre": "Montserrat",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 37500
+  },
+  {
+    "id": 458,
+    "nombre": "Gabriela",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 19500
+  },
+  {
+    "id": 98,
+    "nombre": "Emiliano",
+    "apellido": "Vega",
+    "departamento": "Finanzas",
+    "salario": 51500
+  },
+  {
+    "id": 466,
+    "nombre": "Bruno",
+    "apellido": "Escobar",
+    "departamento": "Ventas",
+    "salario": 62000
+  },
+  {
+    "id": 93,
+    "nombre": "Renata",
+    "apellido": "López",
+    "departamento": "Operaciones",
+    "salario": 62000
+  },
+  {
+    "id": 594,
+    "nombre": "Valeria",
+    "apellido": "Cruz",
+    "departamento": "Operaciones",
+    "salario": 22500
+  },
+  {
+    "id": 855,
+    "nombre": "Regina",
+    "apellido": "Torres",
+    "departamento": "Tecnología",
+    "salario": 29000
+  },
+  {
+    "id": 253,
+    "nombre": "Héctor",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 61000
+  },
+  {
+    "id": 43,
+    "nombre": "Ana",
+    "apellido": "Cruz",
+    "departamento": "Recursos Humanos",
+    "salario": 23500
+  },
+  {
+    "id": 930,
+    "nombre": "Mariana",
+    "apellido": "Soto",
+    "departamento": "Mercadotecnia",
+    "salario": 48500
+  },
+  {
+    "id": 452,
+    "nombre": "Tomás",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 60500
+  },
+  {
+    "id": 530,
+    "nombre": "Sofía",
+    "apellido": "Reyes",
+    "departamento": "Operaciones",
+    "salario": 17500
+  },
+  {
+    "id": 739,
+    "nombre": "Andrés",
+    "apellido": "Reyes",
+    "departamento": "Producción",
+    "salario": 63000
+  },
+  {
+    "id": 375,
+    "nombre": "Andrés",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 38500
+  },
+  {
+    "id": 422,
+    "nombre": "Mariana",
+    "apellido": "Ortiz",
+    "departamento": "Recursos Humanos",
+    "salario": 40500
+  },
+  {
+    "id": 318,
+    "nombre": "Paola",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 58500
+  },
+  {
+    "id": 209,
+    "nombre": "Camila",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 65500
+  },
+  {
+    "id": 764,
+    "nombre": "Sofía",
+    "apellido": "Cruz",
+    "departamento": "Ventas",
+    "salario": 66500
+  },
+  {
+    "id": 275,
+    "nombre": "Diego",
+    "apellido": "García",
+    "departamento": "Calidad",
+    "salario": 30500
+  },
+  {
+    "id": 692,
+    "nombre": "Ana",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 65500
+  },
+  {
+    "id": 31,
+    "nombre": "Valeria",
+    "apellido": "Torres",
+    "departamento": "Producción",
+    "salario": 19500
+  },
+  {
+    "id": 538,
+    "nombre": "Daniela",
+    "apellido": "Flores",
+    "departamento": "Operaciones",
+    "salario": 65500
+  },
+  {
+    "id": 376,
+    "nombre": "Regina",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 20500
+  },
+  {
+    "id": 750,
+    "nombre": "Renata",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 63000
+  },
+  {
+    "id": 761,
+    "nombre": "Renata",
+    "apellido": "Flores",
+    "departamento": "Ventas",
+    "salario": 54500
+  },
+  {
+    "id": 485,
+    "nombre": "Mateo",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 64500
+  },
+  {
+    "id": 704,
+    "nombre": "Paola",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 17000
+  },
+  {
+    "id": 785,
+    "nombre": "Camila",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 41000
+  },
+  {
+    "id": 597,
+    "nombre": "Sofía",
+    "apellido": "Morales",
+    "departamento": "Tecnología",
+    "salario": 66000
+  },
+  {
+    "id": 756,
+    "nombre": "Valeria",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 53500
+  },
+  {
+    "id": 631,
+    "nombre": "Joaquín",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 27000
+  },
+  {
+    "id": 680,
+    "nombre": "Nicolás",
+    "apellido": "Flores",
+    "departamento": "Producción",
+    "salario": 56500
+  },
+  {
+    "id": 802,
+    "nombre": "Alejandro",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 27000
+  },
+  {
+    "id": 863,
+    "nombre": "Regina",
+    "apellido": "Fuentes",
+    "departamento": "Operaciones",
+    "salario": 67000
+  },
+  {
+    "id": 108,
+    "nombre": "Emiliano",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 17500
+  },
+  {
+    "id": 648,
+    "nombre": "Ana",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 16500
+  },
+  {
+    "id": 628,
+    "nombre": "Valeria",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 34000
+  },
+  {
+    "id": 748,
+    "nombre": "Paola",
+    "apellido": "Mendoza",
+    "departamento": "Producción",
+    "salario": 33000
+  },
+  {
+    "id": 421,
+    "nombre": "Santiago",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 66500
+  },
+  {
+    "id": 315,
+    "nombre": "Ana",
+    "apellido": "Reyes",
+    "departamento": "Finanzas",
+    "salario": 65500
+  },
+  {
+    "id": 979,
+    "nombre": "Regina",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 18000
+  },
+  {
+    "id": 642,
+    "nombre": "Alejandra",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 35000
+  },
+  {
+    "id": 913,
+    "nombre": "Sebastián",
+    "apellido": "Fuentes",
+    "departamento": "Ventas",
+    "salario": 30500
+  },
+  {
+    "id": 870,
+    "nombre": "Emiliano",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 47000
+  },
+  {
+    "id": 797,
+    "nombre": "Montserrat",
+    "apellido": "Soto",
+    "departamento": "Calidad",
+    "salario": 44000
+  },
+  {
+    "id": 271,
+    "nombre": "Montserrat",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 45500
+  },
+  {
+    "id": 507,
+    "nombre": "Camila",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 17000
+  },
+  {
+    "id": 773,
+    "nombre": "Regina",
+    "apellido": "Hernández",
+    "departamento": "Finanzas",
+    "salario": 43000
+  },
+  {
+    "id": 323,
+    "nombre": "Santiago",
+    "apellido": "López",
+    "departamento": "Mercadotecnia",
+    "salario": 60500
+  },
+  {
+    "id": 272,
+    "nombre": "Emiliano",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 18500
+  },
+  {
+    "id": 87,
+    "nombre": "Joaquín",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 66000
+  },
+  {
+    "id": 691,
+    "nombre": "Daniela",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 20500
+  },
+  {
+    "id": 486,
+    "nombre": "Julián",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 68500
+  },
+  {
+    "id": 587,
+    "nombre": "Joaquín",
+    "apellido": "Cruz",
+    "departamento": "Calidad",
+    "salario": 52000
+  },
+  {
+    "id": 366,
+    "nombre": "Valeria",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 46000
+  },
+  {
+    "id": 4,
+    "nombre": "Iván",
+    "apellido": "Vega",
+    "departamento": "Calidad",
+    "salario": 53000
+  },
+  {
+    "id": 766,
+    "nombre": "Leonardo",
+    "apellido": "Cruz",
+    "departamento": "Recursos Humanos",
+    "salario": 38000
+  },
+  {
+    "id": 310,
+    "nombre": "Julián",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 50500
+  },
+  {
+    "id": 86,
+    "nombre": "Abril",
+    "apellido": "Cruz",
+    "departamento": "Ventas",
+    "salario": 39500
+  },
+  {
+    "id": 565,
+    "nombre": "Bruno",
+    "apellido": "Rojas",
+    "departamento": "Operaciones",
+    "salario": 43000
+  },
+  {
+    "id": 333,
+    "nombre": "Ana",
+    "apellido": "Fuentes",
+    "departamento": "Finanzas",
+    "salario": 47000
+  },
+  {
+    "id": 578,
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 41000
+  },
+  {
+    "id": 137,
+    "nombre": "Mateo",
+    "apellido": "Ortiz",
+    "departamento": "Mercadotecnia",
+    "salario": 62000
+  },
+  {
+    "id": 729,
+    "nombre": "Alejandro",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 65000
+  },
+  {
+    "id": 24,
+    "nombre": "Camila",
+    "apellido": "Sánchez",
+    "departamento": "Producción",
+    "salario": 22000
+  },
+  {
+    "id": 379,
+    "nombre": "Regina",
+    "apellido": "Ramírez",
+    "departamento": "Tecnología",
+    "salario": 21000
+  },
+  {
+    "id": 603,
+    "nombre": "Iván",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 50000
+  },
+  {
+    "id": 682,
+    "nombre": "Gabriela",
+    "apellido": "Vega",
+    "departamento": "Operaciones",
+    "salario": 32500
+  },
+  {
+    "id": 283,
+    "nombre": "Fernanda",
+    "apellido": "Navarro",
+    "departamento": "Mercadotecnia",
+    "salario": 15000
+  },
+  {
+    "id": 129,
+    "nombre": "Paola",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 28000
+  },
+  {
+    "id": 607,
+    "nombre": "Alejandro",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 45500
+  },
+  {
+    "id": 186,
+    "nombre": "Daniela",
+    "apellido": "Flores",
+    "departamento": "Producción",
+    "salario": 23000
+  },
+  {
+    "id": 867,
+    "nombre": "Héctor",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 19000
+  },
+  {
+    "id": 475,
+    "nombre": "Héctor",
+    "apellido": "Martínez",
+    "departamento": "Tecnología",
+    "salario": 20000
+  },
+  {
+    "id": 410,
+    "nombre": "Camila",
+    "apellido": "Paredes",
+    "departamento": "Ventas",
+    "salario": 30000
+  },
+  {
+    "id": 586,
+    "nombre": "Tomás",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 38500
+  },
+  {
+    "id": 618,
+    "nombre": "Abril",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 24000
+  },
+  {
+    "id": 41,
+    "nombre": "Santiago",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 51000
+  },
+  {
+    "id": 864,
+    "nombre": "Santiago",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 52000
+  },
+  {
+    "id": 651,
+    "nombre": "Leonardo",
+    "apellido": "Paredes",
+    "departamento": "Finanzas",
+    "salario": 37500
+  },
+  {
+    "id": 334,
+    "nombre": "Alejandro",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 60500
+  },
+  {
+    "id": 882,
+    "nombre": "Nicolás",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 66500
+  },
+  {
+    "id": 676,
+    "nombre": "Renata",
+    "apellido": "Vega",
+    "departamento": "Tecnología",
+    "salario": 66500
+  },
+  {
+    "id": 921,
+    "nombre": "Regina",
+    "apellido": "Hernández",
+    "departamento": "Calidad",
+    "salario": 23500
+  },
+  {
+    "id": 218,
+    "nombre": "Alejandra",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 52500
+  },
+  {
+    "id": 887,
+    "nombre": "Regina",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 56500
+  },
+  {
+    "id": 568,
+    "nombre": "Alejandro",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 31500
+  },
+  {
+    "id": 881,
+    "nombre": "Héctor",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 63500
+  },
+  {
+    "id": 374,
+    "nombre": "Nicolás",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 31000
+  },
+  {
+    "id": 910,
+    "nombre": "Leonardo",
+    "apellido": "Ríos",
+    "departamento": "Operaciones",
+    "salario": 29500
+  },
+  {
+    "id": 993,
+    "nombre": "Nicolás",
+    "apellido": "Cruz",
+    "departamento": "Operaciones",
+    "salario": 55500
+  },
+  {
+    "id": 292,
+    "nombre": "Sofía",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 44000
+  },
+  {
+    "id": 296,
+    "nombre": "Julián",
+    "apellido": "Martínez",
+    "departamento": "Tecnología",
+    "salario": 66000
+  },
+  {
+    "id": 675,
+    "nombre": "Lucía",
+    "apellido": "Ríos",
+    "departamento": "Operaciones",
+    "salario": 57500
+  },
+  {
+    "id": 543,
+    "nombre": "Abril",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 38500
+  },
+  {
+    "id": 637,
+    "nombre": "Camila",
+    "apellido": "Rojas",
+    "departamento": "Ventas",
+    "salario": 32000
+  },
+  {
+    "id": 111,
+    "nombre": "Sofía",
+    "apellido": "Navarro",
+    "departamento": "Mercadotecnia",
+    "salario": 57500
+  },
+  {
+    "id": 901,
+    "nombre": "Leonardo",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 40500
+  },
+  {
+    "id": 744,
+    "nombre": "Nicolás",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 57500
+  },
+  {
+    "id": 786,
+    "nombre": "Mateo",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 48000
+  },
+  {
+    "id": 617,
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "departamento": "Ventas",
+    "salario": 19000
+  },
+  {
+    "id": 789,
+    "nombre": "Abril",
+    "apellido": "Morales",
+    "departamento": "Calidad",
+    "salario": 22000
+  },
+  {
+    "id": 8,
+    "nombre": "Bruno",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 44500
+  },
+  {
+    "id": 967,
+    "nombre": "Leonardo",
+    "apellido": "Rojas",
+    "departamento": "Operaciones",
+    "salario": 42000
+  },
+  {
+    "id": 343,
+    "nombre": "Rodrigo",
+    "apellido": "Salazar",
+    "departamento": "Tecnología",
+    "salario": 55500
+  },
+  {
+    "id": 526,
+    "nombre": "Diego",
+    "apellido": "Navarro",
+    "departamento": "Operaciones",
+    "salario": 17500
+  },
+  {
+    "id": 294,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 43500
+  },
+  {
+    "id": 124,
+    "nombre": "Daniela",
+    "apellido": "Salazar",
+    "departamento": "Producción",
+    "salario": 19000
+  },
+  {
+    "id": 845,
+    "nombre": "Mariana",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 66000
+  },
+  {
+    "id": 557,
+    "nombre": "Montserrat",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 34500
+  },
+  {
+    "id": 442,
+    "nombre": "Mateo",
+    "apellido": "Cruz",
+    "departamento": "Recursos Humanos",
+    "salario": 39000
+  },
+  {
+    "id": 210,
+    "nombre": "Regina",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 26000
+  },
+  {
+    "id": 931,
+    "nombre": "Leonardo",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 57500
+  },
+  {
+    "id": 999,
+    "nombre": "Mateo",
+    "apellido": "Sánchez",
+    "departamento": "Producción",
+    "salario": 62000
+  },
+  {
+    "id": 869,
+    "nombre": "Mateo",
+    "apellido": "Jiménez",
+    "departamento": "Ventas",
+    "salario": 47000
+  },
+  {
+    "id": 358,
+    "nombre": "Julián",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 30000
+  },
+  {
+    "id": 509,
+    "nombre": "Joaquín",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 16000
+  },
+  {
+    "id": 973,
+    "nombre": "Gabriela",
+    "apellido": "Cruz",
+    "departamento": "Mercadotecnia",
+    "salario": 50500
+  },
+  {
+    "id": 542,
+    "nombre": "Sofía",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 60000
+  },
+  {
+    "id": 165,
+    "nombre": "Andrés",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 51500
+  },
+  {
+    "id": 463,
+    "nombre": "Mariana",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 40000
+  },
+  {
+    "id": 5,
+    "nombre": "Ana",
+    "apellido": "Escobar",
+    "departamento": "Calidad",
+    "salario": 39500
+  },
+  {
+    "id": 405,
+    "nombre": "Gabriela",
+    "apellido": "Jiménez",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 668,
+    "nombre": "Fernanda",
+    "apellido": "Sánchez",
+    "departamento": "Mercadotecnia",
+    "salario": 54500
+  },
+  {
+    "id": 942,
+    "nombre": "Iván",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 38000
+  },
+  {
+    "id": 762,
+    "nombre": "Joaquín",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 52500
+  },
+  {
+    "id": 944,
+    "nombre": "Diego",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 26500
+  },
+  {
+    "id": 38,
+    "nombre": "Iván",
+    "apellido": "López",
+    "departamento": "Operaciones",
+    "salario": 43000
+  },
+  {
+    "id": 143,
+    "nombre": "Iván",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 61000
+  },
+  {
+    "id": 566,
+    "nombre": "Ana",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 44000
+  },
+  {
+    "id": 749,
+    "nombre": "Gabriela",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 39500
+  },
+  {
+    "id": 634,
+    "nombre": "Nicolás",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 41500
+  },
+  {
+    "id": 122,
+    "nombre": "Julián",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 20500
+  },
+  {
+    "id": 912,
+    "nombre": "Montserrat",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 51000
+  },
+  {
+    "id": 629,
+    "nombre": "Montserrat",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 21000
+  },
+  {
+    "id": 306,
+    "nombre": "Mariana",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 52000
+  },
+  {
+    "id": 240,
+    "nombre": "Sebastián",
+    "apellido": "Salazar",
+    "departamento": "Ventas",
+    "salario": 36500
+  },
+  {
+    "id": 658,
+    "nombre": "Gabriela",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 35500
+  },
+  {
+    "id": 495,
+    "nombre": "Paola",
+    "apellido": "Mendoza",
+    "departamento": "Calidad",
+    "salario": 69000
+  },
+  {
+    "id": 267,
+    "nombre": "Diego",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 31000
+  },
+  {
+    "id": 151,
+    "nombre": "Leonardo",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 33500
+  },
+  {
+    "id": 663,
+    "nombre": "Valeria",
+    "apellido": "Jiménez",
+    "departamento": "Finanzas",
+    "salario": 57000
+  },
+  {
+    "id": 72,
+    "nombre": "Emiliano",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 53500
+  },
+  {
+    "id": 771,
+    "nombre": "Lucía",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 63500
+  },
+  {
+    "id": 55,
+    "nombre": "Bruno",
+    "apellido": "Reyes",
+    "departamento": "Operaciones",
+    "salario": 53500
+  },
+  {
+    "id": 646,
+    "nombre": "Paola",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 40000
+  },
+  {
+    "id": 728,
+    "nombre": "Julián",
+    "apellido": "Torres",
+    "departamento": "Ventas",
+    "salario": 59500
+  },
+  {
+    "id": 34,
+    "nombre": "Rodrigo",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 29500
+  },
+  {
+    "id": 540,
+    "nombre": "Abril",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 30000
+  },
+  {
+    "id": 194,
+    "nombre": "Santiago",
+    "apellido": "Vega",
+    "departamento": "Ventas",
+    "salario": 54000
+  },
+  {
+    "id": 237,
+    "nombre": "Mateo",
+    "apellido": "Flores",
+    "departamento": "Recursos Humanos",
+    "salario": 52500
+  },
+  {
+    "id": 346,
+    "nombre": "Lucía",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 61000
+  },
+  {
+    "id": 158,
+    "nombre": "Alejandro",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 54000
+  },
+  {
+    "id": 737,
+    "nombre": "Ximena",
+    "apellido": "Martínez",
+    "departamento": "Recursos Humanos",
+    "salario": 51500
+  },
+  {
+    "id": 721,
+    "nombre": "Héctor",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 42000
+  },
+  {
+    "id": 470,
+    "nombre": "Tomás",
+    "apellido": "Flores",
+    "departamento": "Ventas",
+    "salario": 56000
+  },
+  {
+    "id": 779,
+    "nombre": "Santiago",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 52000
+  },
+  {
+    "id": 316,
+    "nombre": "Alejandra",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 54500
+  },
+  {
+    "id": 298,
+    "nombre": "Santiago",
+    "apellido": "Cruz",
+    "departamento": "Finanzas",
+    "salario": 20000
+  },
+  {
+    "id": 273,
+    "nombre": "Abril",
+    "apellido": "Navarro",
+    "departamento": "Mercadotecnia",
+    "salario": 46000
+  },
+  {
+    "id": 109,
+    "nombre": "Santiago",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 61500
+  },
+  {
+    "id": 11,
+    "nombre": "Daniela",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 45500
+  },
+  {
+    "id": 719,
+    "nombre": "Iván",
+    "apellido": "Hernández",
+    "departamento": "Tecnología",
+    "salario": 54000
+  },
+  {
+    "id": 173,
+    "nombre": "Leonardo",
+    "apellido": "López",
+    "departamento": "Finanzas",
+    "salario": 46500
+  },
+  {
+    "id": 340,
+    "nombre": "Mateo",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 49000
+  },
+  {
+    "id": 244,
+    "nombre": "Regina",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 47500
+  },
+  {
+    "id": 7,
+    "nombre": "Lucía",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 54500
+  },
+  {
+    "id": 774,
+    "nombre": "Alejandro",
+    "apellido": "Flores",
+    "departamento": "Recursos Humanos",
+    "salario": 47000
+  },
+  {
+    "id": 576,
+    "nombre": "Alejandra",
+    "apellido": "Medina",
+    "departamento": "Ventas",
+    "salario": 63000
+  },
+  {
+    "id": 740,
+    "nombre": "Andrés",
+    "apellido": "Soto",
+    "departamento": "Ventas",
+    "salario": 41000
+  },
+  {
+    "id": 684,
+    "nombre": "Sofía",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 59000
+  },
+  {
+    "id": 302,
+    "nombre": "Joaquín",
+    "apellido": "Morales",
+    "departamento": "Calidad",
+    "salario": 61000
+  },
+  {
+    "id": 164,
+    "nombre": "Abril",
+    "apellido": "García",
+    "departamento": "Tecnología",
+    "salario": 69500
+  },
+  {
+    "id": 256,
+    "nombre": "Montserrat",
+    "apellido": "Ramírez",
+    "departamento": "Operaciones",
+    "salario": 29000
+  },
+  {
+    "id": 963,
+    "nombre": "Andrés",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 54000
+  },
+  {
+    "id": 29,
+    "nombre": "Fernanda",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 31500
+  },
+  {
+    "id": 717,
+    "nombre": "Andrés",
+    "apellido": "Ramírez",
+    "departamento": "Tecnología",
+    "salario": 25000
+  },
+  {
+    "id": 14,
+    "nombre": "Abril",
+    "apellido": "Paredes",
+    "departamento": "Mercadotecnia",
+    "salario": 37500
+  },
+  {
+    "id": 515,
+    "nombre": "Regina",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 62000
+  },
+  {
+    "id": 393,
+    "nombre": "Renata",
+    "apellido": "Reyes",
+    "departamento": "Operaciones",
+    "salario": 66000
+  },
+  {
+    "id": 694,
+    "nombre": "Tomás",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 41000
+  },
+  {
+    "id": 758,
+    "nombre": "Leonardo",
+    "apellido": "Cortés",
+    "departamento": "Ventas",
+    "salario": 35500
+  },
+  {
+    "id": 734,
+    "nombre": "Ximena",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 38000
+  },
+  {
+    "id": 156,
+    "nombre": "Alejandra",
+    "apellido": "Escobar",
+    "departamento": "Ventas",
+    "salario": 17000
+  },
+  {
+    "id": 886,
+    "nombre": "Montserrat",
+    "apellido": "Ortiz",
+    "departamento": "Recursos Humanos",
+    "salario": 41000
+  },
+  {
+    "id": 106,
+    "nombre": "Sebastián",
+    "apellido": "Reyes",
+    "departamento": "Mercadotecnia",
+    "salario": 19500
+  },
+  {
+    "id": 965,
+    "nombre": "Ximena",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 28000
+  },
+  {
+    "id": 155,
+    "nombre": "Iván",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 36000
+  },
+  {
+    "id": 22,
+    "nombre": "Ana",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 18500
+  },
+  {
+    "id": 583,
+    "nombre": "Julián",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 19000
+  },
+  {
+    "id": 820,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Tecnología",
+    "salario": 49000
+  },
+  {
+    "id": 391,
+    "nombre": "Julián",
+    "apellido": "Morales",
+    "departamento": "Calidad",
+    "salario": 35000
+  },
+  {
+    "id": 783,
+    "nombre": "Sofía",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 65000
+  },
+  {
+    "id": 223,
+    "nombre": "Iván",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 985,
+    "nombre": "Leonardo",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 67500
+  },
+  {
+    "id": 795,
+    "nombre": "Bruno",
+    "apellido": "Soto",
+    "departamento": "Mercadotecnia",
+    "salario": 63000
+  },
+  {
+    "id": 331,
+    "nombre": "Alejandra",
+    "apellido": "Luna",
+    "departamento": "Calidad",
+    "salario": 42000
+  },
+  {
+    "id": 255,
+    "nombre": "Ximena",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 39000
+  },
+  {
+    "id": 78,
+    "nombre": "Mariana",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 28000
+  },
+  {
+    "id": 638,
+    "nombre": "Alejandro",
+    "apellido": "Navarro",
+    "departamento": "Finanzas",
+    "salario": 61500
+  },
+  {
+    "id": 420,
+    "nombre": "Iván",
+    "apellido": "Vega",
+    "departamento": "Finanzas",
+    "salario": 43000
+  },
+  {
+    "id": 136,
+    "nombre": "Camila",
+    "apellido": "Jiménez",
+    "departamento": "Producción",
+    "salario": 29500
+  },
+  {
+    "id": 503,
+    "nombre": "Ana",
+    "apellido": "Soto",
+    "departamento": "Producción",
+    "salario": 17000
+  },
+  {
+    "id": 953,
+    "nombre": "Andrés",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 45000
+  },
+  {
+    "id": 652,
+    "nombre": "Iván",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 31000
+  },
+  {
+    "id": 984,
+    "nombre": "Sofía",
+    "apellido": "Luna",
+    "departamento": "Mercadotecnia",
+    "salario": 68500
+  },
+  {
+    "id": 932,
+    "nombre": "Camila",
+    "apellido": "Ramírez",
+    "departamento": "Ventas",
+    "salario": 39000
+  },
+  {
+    "id": 113,
+    "nombre": "Sofía",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 58500
+  },
+  {
+    "id": 434,
+    "nombre": "Mateo",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 26500
+  },
+  {
+    "id": 178,
+    "nombre": "Diego",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 27500
+  },
+  {
+    "id": 27,
+    "nombre": "Paola",
+    "apellido": "Paredes",
+    "departamento": "Finanzas",
+    "salario": 48000
+  },
+  {
+    "id": 399,
+    "nombre": "Emiliano",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 44500
+  },
+  {
+    "id": 407,
+    "nombre": "Lucía",
+    "apellido": "Mendoza",
+    "departamento": "Calidad",
+    "salario": 37000
+  },
+  {
+    "id": 601,
+    "nombre": "Mateo",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 49000
+  },
+  {
+    "id": 611,
+    "nombre": "Lucía",
+    "apellido": "Reyes",
+    "departamento": "Ventas",
+    "salario": 53000
+  },
+  {
+    "id": 312,
+    "nombre": "Paola",
+    "apellido": "Luna",
+    "departamento": "Finanzas",
+    "salario": 40500
+  },
+  {
+    "id": 885,
+    "nombre": "Alejandro",
+    "apellido": "Escobar",
+    "departamento": "Ventas",
+    "salario": 27000
+  },
+  {
+    "id": 649,
+    "nombre": "Regina",
+    "apellido": "Hernández",
+    "departamento": "Mercadotecnia",
+    "salario": 61500
+  },
+  {
+    "id": 415,
+    "nombre": "Ana",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 37000
+  },
+  {
+    "id": 722,
+    "nombre": "Tomás",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 23500
+  },
+  {
+    "id": 969,
+    "nombre": "Julián",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 18500
+  },
+  {
+    "id": 234,
+    "nombre": "Abril",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 35500
+  },
+  {
+    "id": 492,
+    "nombre": "Héctor",
+    "apellido": "Ramírez",
+    "departamento": "Operaciones",
+    "salario": 39000
+  },
+  {
+    "id": 33,
+    "nombre": "Nicolás",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 52500
+  },
+  {
+    "id": 935,
+    "nombre": "Bruno",
+    "apellido": "Ríos",
+    "departamento": "Recursos Humanos",
+    "salario": 59000
+  },
+  {
+    "id": 911,
+    "nombre": "Valeria",
+    "apellido": "García",
+    "departamento": "Operaciones",
+    "salario": 39500
+  },
+  {
+    "id": 588,
+    "nombre": "Daniela",
+    "apellido": "López",
+    "departamento": "Calidad",
+    "salario": 28500
+  },
+  {
+    "id": 465,
+    "nombre": "Abril",
+    "apellido": "Soto",
+    "departamento": "Ventas",
+    "salario": 18000
+  },
+  {
+    "id": 861,
+    "nombre": "Andrés",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 54500
+  },
+  {
+    "id": 347,
+    "nombre": "Mateo",
+    "apellido": "Cruz",
+    "departamento": "Mercadotecnia",
+    "salario": 18500
+  },
+  {
+    "id": 413,
+    "nombre": "Iván",
+    "apellido": "Cruz",
+    "departamento": "Finanzas",
+    "salario": 66000
+  },
+  {
+    "id": 451,
+    "nombre": "Diego",
+    "apellido": "Vega",
+    "departamento": "Recursos Humanos",
+    "salario": 65000
+  },
+  {
+    "id": 772,
+    "nombre": "Bruno",
+    "apellido": "Torres",
+    "departamento": "Operaciones",
+    "salario": 61000
+  },
+  {
+    "id": 224,
+    "nombre": "Leonardo",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 58000
+  },
+  {
+    "id": 600,
+    "nombre": "Santiago",
+    "apellido": "Cruz",
+    "departamento": "Calidad",
+    "salario": 31000
+  },
+  {
+    "id": 457,
+    "nombre": "Ximena",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 52500
+  },
+  {
+    "id": 763,
+    "nombre": "Bruno",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 49500
+  },
+  {
+    "id": 854,
+    "nombre": "Santiago",
+    "apellido": "Torres",
+    "departamento": "Producción",
+    "salario": 64500
+  },
+  {
+    "id": 879,
+    "nombre": "Montserrat",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 34000
+  },
+  {
+    "id": 304,
+    "nombre": "Ana",
+    "apellido": "Reyes",
+    "departamento": "Operaciones",
+    "salario": 65500
+  },
+  {
+    "id": 128,
+    "nombre": "Rodrigo",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 57500
+  },
+  {
+    "id": 395,
+    "nombre": "Iván",
+    "apellido": "Cortés",
+    "departamento": "Calidad",
+    "salario": 46500
+  },
+  {
+    "id": 835,
+    "nombre": "Regina",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 53500
+  },
+  {
+    "id": 175,
+    "nombre": "Alejandra",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 46500
+  },
+  {
+    "id": 51,
+    "nombre": "Héctor",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 55500
+  },
+  {
+    "id": 995,
+    "nombre": "Ximena",
+    "apellido": "Torres",
+    "departamento": "Calidad",
+    "salario": 48000
+  },
+  {
+    "id": 258,
+    "nombre": "Tomás",
+    "apellido": "Jiménez",
+    "departamento": "Calidad",
+    "salario": 62000
+  },
+  {
+    "id": 411,
+    "nombre": "Mariana",
+    "apellido": "Torres",
+    "departamento": "Calidad",
+    "salario": 67000
+  },
+  {
+    "id": 325,
+    "nombre": "Julián",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 65000
+  },
+  {
+    "id": 1000,
+    "nombre": "Emiliano",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 45000
+  },
+  {
+    "id": 386,
+    "nombre": "Leonardo",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 40500
+  },
+  {
+    "id": 388,
+    "nombre": "Sebastián",
+    "apellido": "Jiménez",
+    "departamento": "Mercadotecnia",
+    "salario": 61500
+  },
+  {
+    "id": 59,
+    "nombre": "Renata",
+    "apellido": "Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 20000
+  },
+  {
+    "id": 558,
+    "nombre": "Leonardo",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 36000
+  },
+  {
+    "id": 822,
+    "nombre": "Gabriela",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 69000
+  },
+  {
+    "id": 274,
+    "nombre": "Alejandra",
+    "apellido": "Escobar",
+    "departamento": "Mercadotecnia",
+    "salario": 62500
+  },
+  {
+    "id": 345,
+    "nombre": "Tomás",
+    "apellido": "Soto",
+    "departamento": "Recursos Humanos",
+    "salario": 56000
+  },
+  {
+    "id": 884,
+    "nombre": "Valeria",
+    "apellido": "Soto",
+    "departamento": "Ventas",
+    "salario": 63500
+  },
+  {
+    "id": 287,
+    "nombre": "Ximena",
+    "apellido": "Salazar",
+    "departamento": "Mercadotecnia",
+    "salario": 40000
+  },
+  {
+    "id": 301,
+    "nombre": "Abril",
+    "apellido": "Flores",
+    "departamento": "Finanzas",
+    "salario": 29000
+  },
+  {
+    "id": 398,
+    "nombre": "Alejandra",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 60500
+  },
+  {
+    "id": 454,
+    "nombre": "Regina",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 61000
+  },
+  {
+    "id": 285,
+    "nombre": "Sebastián",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 22500
+  },
+  {
+    "id": 157,
+    "nombre": "Alejandra",
+    "apellido": "Soto",
+    "departamento": "Recursos Humanos",
+    "salario": 34500
+  },
+  {
+    "id": 775,
+    "nombre": "Renata",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 56500
+  },
+  {
+    "id": 357,
+    "nombre": "Mariana",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 22500
+  },
+  {
+    "id": 378,
+    "nombre": "Alejandra",
+    "apellido": "Paredes",
+    "departamento": "Finanzas",
+    "salario": 18000
+  },
+  {
+    "id": 980,
+    "nombre": "Tomás",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 53500
+  },
+  {
+    "id": 874,
+    "nombre": "Santiago",
+    "apellido": "Luna",
+    "departamento": "Operaciones",
+    "salario": 38000
+  },
+  {
+    "id": 992,
+    "nombre": "Andrés",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 30500
+  },
+  {
+    "id": 360,
+    "nombre": "Sofía",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 40000
+  },
+  {
+    "id": 602,
+    "nombre": "Joaquín",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 54500
+  },
+  {
+    "id": 66,
+    "nombre": "Héctor",
+    "apellido": "Reyes",
+    "departamento": "Mercadotecnia",
+    "salario": 37000
+  },
+  {
+    "id": 847,
+    "nombre": "Camila",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 34500
+  },
+  {
+    "id": 474,
+    "nombre": "Paola",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 56500
+  },
+  {
+    "id": 317,
+    "nombre": "Rodrigo",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 60000
+  },
+  {
+    "id": 714,
+    "nombre": "Renata",
+    "apellido": "Vega",
+    "departamento": "Producción",
+    "salario": 28500
+  },
+  {
+    "id": 625,
+    "nombre": "Renata",
+    "apellido": "Navarro",
+    "departamento": "Operaciones",
+    "salario": 36500
+  },
+  {
+    "id": 925,
+    "nombre": "Joaquín",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 56500
+  },
+  {
+    "id": 348,
+    "nombre": "Camila",
+    "apellido": "Luna",
+    "departamento": "Calidad",
+    "salario": 39500
+  },
+  {
+    "id": 800,
+    "nombre": "Mariana",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 47000
+  },
+  {
+    "id": 964,
+    "nombre": "Valeria",
+    "apellido": "Escobar",
+    "departamento": "Finanzas",
+    "salario": 28500
+  },
+  {
+    "id": 525,
+    "nombre": "Ana",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 35500
+  },
+  {
+    "id": 738,
+    "nombre": "Tomás",
+    "apellido": "López",
+    "departamento": "Producción",
+    "salario": 54000
+  },
+  {
+    "id": 678,
+    "nombre": "Tomás",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 23000
+  },
+  {
+    "id": 35,
+    "nombre": "Iván",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 17000
+  },
+  {
+    "id": 320,
+    "nombre": "Sofía",
+    "apellido": "Morales",
+    "departamento": "Producción",
+    "salario": 57500
+  },
+  {
+    "id": 843,
+    "nombre": "Mateo",
+    "apellido": "Jiménez",
+    "departamento": "Finanzas",
+    "salario": 37500
+  },
+  {
+    "id": 471,
+    "nombre": "Sofía",
+    "apellido": "Jiménez",
+    "departamento": "Ventas",
+    "salario": 43500
+  },
+  {
+    "id": 957,
+    "nombre": "Tomás",
+    "apellido": "García",
+    "departamento": "Operaciones",
+    "salario": 40000
+  },
+  {
+    "id": 159,
+    "nombre": "Rodrigo",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 65500
+  },
+  {
+    "id": 177,
+    "nombre": "Regina",
+    "apellido": "Medina",
+    "departamento": "Mercadotecnia",
+    "salario": 62000
+  },
+  {
+    "id": 562,
+    "nombre": "Tomás",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 59500
+  },
+  {
+    "id": 653,
+    "nombre": "Montserrat",
+    "apellido": "Martínez",
+    "departamento": "Recursos Humanos",
+    "salario": 66000
+  },
+  {
+    "id": 852,
+    "nombre": "Renata",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 29000
+  },
+  {
+    "id": 769,
+    "nombre": "Gabriela",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 22000
+  },
+  {
+    "id": 955,
+    "nombre": "Regina",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 38500
+  },
+  {
+    "id": 166,
+    "nombre": "Alejandro",
+    "apellido": "Morales",
+    "departamento": "Ventas",
+    "salario": 15500
+  },
+  {
+    "id": 837,
+    "nombre": "Emiliano",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 25500
+  },
+  {
+    "id": 878,
+    "nombre": "Ximena",
+    "apellido": "Medina",
+    "departamento": "Producción",
+    "salario": 38000
+  },
+  {
+    "id": 373,
+    "nombre": "Fernanda",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 52500
+  },
+  {
+    "id": 793,
+    "nombre": "Sofía",
+    "apellido": "García",
+    "departamento": "Ventas",
+    "salario": 60500
+  },
+  {
+    "id": 506,
+    "nombre": "Fernanda",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 44500
+  },
+  {
+    "id": 519,
+    "nombre": "Sofía",
+    "apellido": "Soto",
+    "departamento": "Producción",
+    "salario": 24000
+  },
+  {
+    "id": 149,
+    "nombre": "Paola",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 16000
+  },
+  {
+    "id": 683,
+    "nombre": "Paola",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 26500
+  },
+  {
+    "id": 556,
+    "nombre": "Abril",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 63500
+  },
+  {
+    "id": 554,
+    "nombre": "Héctor",
+    "apellido": "Vega",
+    "departamento": "Producción",
+    "salario": 63500
+  },
+  {
+    "id": 217,
+    "nombre": "Camila",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 50000
+  },
+  {
+    "id": 419,
+    "nombre": "Héctor",
+    "apellido": "Navarro",
+    "departamento": "Mercadotecnia",
+    "salario": 58500
+  },
+  {
+    "id": 432,
+    "nombre": "Regina",
+    "apellido": "Cruz",
+    "departamento": "Operaciones",
+    "salario": 67000
+  },
+  {
+    "id": 799,
+    "nombre": "Ximena",
+    "apellido": "Escobar",
+    "departamento": "Calidad",
+    "salario": 65500
+  },
+  {
+    "id": 56,
+    "nombre": "Montserrat",
+    "apellido": "Luna",
+    "departamento": "Producción",
+    "salario": 40500
+  },
+  {
+    "id": 300,
+    "nombre": "Abril",
+    "apellido": "Vega",
+    "departamento": "Calidad",
+    "salario": 44000
+  },
+  {
+    "id": 220,
+    "nombre": "Diego",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 19000
+  },
+  {
+    "id": 338,
+    "nombre": "Daniela",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 61500
+  },
+  {
+    "id": 204,
+    "nombre": "Nicolás",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 40000
+  },
+  {
+    "id": 336,
+    "nombre": "Héctor",
+    "apellido": "Jiménez",
+    "departamento": "Mercadotecnia",
+    "salario": 38000
+  },
+  {
+    "id": 736,
+    "nombre": "Emiliano",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 55000
+  },
+  {
+    "id": 747,
+    "nombre": "Ximena",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 19000
+  },
+  {
+    "id": 981,
+    "nombre": "Paola",
+    "apellido": "Vega",
+    "departamento": "Tecnología",
+    "salario": 48000
+  },
+  {
+    "id": 709,
+    "nombre": "Sebastián",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 49000
+  },
+  {
+    "id": 20,
+    "nombre": "Diego",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 52500
+  },
+  {
+    "id": 365,
+    "nombre": "Alejandro",
+    "apellido": "Mendoza",
+    "departamento": "Calidad",
+    "salario": 55500
+  },
+  {
+    "id": 643,
+    "nombre": "Joaquín",
+    "apellido": "Navarro",
+    "departamento": "Finanzas",
+    "salario": 34500
+  },
+  {
+    "id": 974,
+    "nombre": "Mateo",
+    "apellido": "Jiménez",
+    "departamento": "Calidad",
+    "salario": 38500
+  },
+  {
+    "id": 48,
+    "nombre": "Nicolás",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 61500
+  },
+  {
+    "id": 547,
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "departamento": "Calidad",
+    "salario": 68000
+  },
+  {
+    "id": 30,
+    "nombre": "Gabriela",
+    "apellido": "Reyes",
+    "departamento": "Producción",
+    "salario": 62500
+  },
+  {
+    "id": 706,
+    "nombre": "Diego",
+    "apellido": "López",
+    "departamento": "Producción",
+    "salario": 32500
+  },
+  {
+    "id": 201,
+    "nombre": "Sebastián",
+    "apellido": "Ramírez",
+    "departamento": "Ventas",
+    "salario": 64000
+  },
+  {
+    "id": 746,
+    "nombre": "Mariana",
+    "apellido": "Martínez",
+    "departamento": "Operaciones",
+    "salario": 18000
+  },
+  {
+    "id": 238,
+    "nombre": "Andrés",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 69000
+  },
+  {
+    "id": 63,
+    "nombre": "Diego",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 35500
+  },
+  {
+    "id": 138,
+    "nombre": "Bruno",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 17500
+  },
+  {
+    "id": 730,
+    "nombre": "Fernanda",
+    "apellido": "Jiménez",
+    "departamento": "Mercadotecnia",
+    "salario": 59000
+  },
+  {
+    "id": 941,
+    "nombre": "Leonardo",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 28500
+  },
+  {
+    "id": 332,
+    "nombre": "Lucía",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 15000
+  },
+  {
+    "id": 751,
+    "nombre": "Sofía",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 69000
+  },
+  {
+    "id": 62,
+    "nombre": "Sofía",
+    "apellido": "Ramírez",
+    "departamento": "Recursos Humanos",
+    "salario": 40000
+  },
+  {
+    "id": 976,
+    "nombre": "Tomás",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 24500
+  },
+  {
+    "id": 417,
+    "nombre": "Emiliano",
+    "apellido": "Hernández",
+    "departamento": "Mercadotecnia",
+    "salario": 35500
+  },
+  {
+    "id": 221,
+    "nombre": "Gabriela",
+    "apellido": "Cruz",
+    "departamento": "Tecnología",
+    "salario": 50000
+  },
+  {
+    "id": 644,
+    "nombre": "Diego",
+    "apellido": "Jiménez",
+    "departamento": "Calidad",
+    "salario": 42000
+  },
+  {
+    "id": 871,
+    "nombre": "Tomás",
+    "apellido": "López",
+    "departamento": "Calidad",
+    "salario": 38000
+  },
+  {
+    "id": 523,
+    "nombre": "Sofía",
+    "apellido": "Salazar",
+    "departamento": "Operaciones",
+    "salario": 58000
+  },
+  {
+    "id": 414,
+    "nombre": "Valeria",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 41000
+  },
+  {
+    "id": 919,
+    "nombre": "Andrés",
+    "apellido": "Morales",
+    "departamento": "Operaciones",
+    "salario": 17000
+  },
+  {
+    "id": 907,
+    "nombre": "Paola",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 69000
+  },
+  {
+    "id": 476,
+    "nombre": "Ximena",
+    "apellido": "Salazar",
+    "departamento": "Tecnología",
+    "salario": 42000
+  },
+  {
+    "id": 342,
+    "nombre": "Abril",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 57000
+  },
+  {
+    "id": 801,
+    "nombre": "Camila",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 28500
+  },
+  {
+    "id": 290,
+    "nombre": "Gabriela",
+    "apellido": "Sánchez",
+    "departamento": "Operaciones",
+    "salario": 57000
+  },
+  {
+    "id": 805,
+    "nombre": "Joaquín",
+    "apellido": "Medina",
+    "departamento": "Operaciones",
+    "salario": 21000
+  },
+  {
+    "id": 570,
+    "nombre": "Emiliano",
+    "apellido": "Fuentes",
+    "departamento": "Finanzas",
+    "salario": 55000
+  },
+  {
+    "id": 172,
+    "nombre": "Nicolás",
+    "apellido": "Escobar",
+    "departamento": "Mercadotecnia",
+    "salario": 28500
+  },
+  {
+    "id": 811,
+    "nombre": "Héctor",
+    "apellido": "Cruz",
+    "departamento": "Finanzas",
+    "salario": 33000
+  },
+  {
+    "id": 389,
+    "nombre": "Bruno",
+    "apellido": "Jiménez",
+    "departamento": "Producción",
+    "salario": 49500
+  },
+  {
+    "id": 824,
+    "nombre": "Andrés",
+    "apellido": "López",
+    "departamento": "Producción",
+    "salario": 49000
+  },
+  {
+    "id": 17,
+    "nombre": "Fernanda",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 32000
+  },
+  {
+    "id": 659,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 36000
+  },
+  {
+    "id": 119,
+    "nombre": "Gabriela",
+    "apellido": "Hernández",
+    "departamento": "Tecnología",
+    "salario": 48000
+  },
+  {
+    "id": 145,
+    "nombre": "Lucía",
+    "apellido": "Cruz",
+    "departamento": "Mercadotecnia",
+    "salario": 26000
+  },
+  {
+    "id": 702,
+    "nombre": "Alejandro",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 60000
+  },
+  {
+    "id": 282,
+    "nombre": "Alejandra",
+    "apellido": "Ramírez",
+    "departamento": "Tecnología",
+    "salario": 24000
+  },
+  {
+    "id": 381,
+    "nombre": "Leonardo",
+    "apellido": "Navarro",
+    "departamento": "Producción",
+    "salario": 64000
+  },
+  {
+    "id": 76,
+    "nombre": "Regina",
+    "apellido": "Sánchez",
+    "departamento": "Producción",
+    "salario": 24500
+  },
+  {
+    "id": 293,
+    "nombre": "Sebastián",
+    "apellido": "Sánchez",
+    "departamento": "Mercadotecnia",
+    "salario": 60500
+  },
+  {
+    "id": 640,
+    "nombre": "Abril",
+    "apellido": "Torres",
+    "departamento": "Operaciones",
+    "salario": 22000
+  },
+  {
+    "id": 248,
+    "nombre": "Alejandro",
+    "apellido": "Luna",
+    "departamento": "Finanzas",
+    "salario": 64500
+  },
+  {
+    "id": 815,
+    "nombre": "Emiliano",
+    "apellido": "López",
+    "departamento": "Operaciones",
+    "salario": 17500
+  },
+  {
+    "id": 535,
+    "nombre": "Gabriela",
+    "apellido": "Flores",
+    "departamento": "Ventas",
+    "salario": 67500
+  },
+  {
+    "id": 707,
+    "nombre": "Sofía",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 20500
+  },
+  {
+    "id": 699,
+    "nombre": "Paola",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 68000
+  },
+  {
+    "id": 920,
+    "nombre": "Mariana",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 65500
+  },
+  {
+    "id": 498,
+    "nombre": "Sebastián",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 38500
+  },
+  {
+    "id": 40,
+    "nombre": "Iván",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 35500
+  },
+  {
+    "id": 412,
+    "nombre": "Leonardo",
+    "apellido": "Escobar",
+    "departamento": "Recursos Humanos",
+    "salario": 19500
+  },
+  {
+    "id": 991,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 25000
+  },
+  {
+    "id": 839,
+    "nombre": "Leonardo",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 30500
+  },
+  {
+    "id": 580,
+    "nombre": "Héctor",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 50000
+  },
+  {
+    "id": 776,
+    "nombre": "Ana",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 16000
+  },
+  {
+    "id": 711,
+    "nombre": "Joaquín",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 26500
+  },
+  {
+    "id": 431,
+    "nombre": "Sebastián",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 19000
+  },
+  {
+    "id": 971,
+    "nombre": "Bruno",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 22500
+  },
+  {
+    "id": 479,
+    "nombre": "Leonardo",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 56500
+  },
+  {
+    "id": 369,
+    "nombre": "Fernanda",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 58500
+  },
+  {
+    "id": 527,
+    "nombre": "Regina",
+    "apellido": "Jiménez",
+    "departamento": "Ventas",
+    "salario": 16000
+  },
+  {
+    "id": 230,
+    "nombre": "Daniela",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 63000
+  },
+  {
+    "id": 782,
+    "nombre": "Nicolás",
+    "apellido": "Ortiz",
+    "departamento": "Finanzas",
+    "salario": 54500
+  },
+  {
+    "id": 37,
+    "nombre": "Fernanda",
+    "apellido": "López",
+    "departamento": "Calidad",
+    "salario": 59500
+  },
+  {
+    "id": 541,
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 52500
+  },
+  {
+    "id": 928,
+    "nombre": "Alejandra",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 28000
+  },
+  {
+    "id": 534,
+    "nombre": "Alejandra",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 36000
+  },
+  {
+    "id": 866,
+    "nombre": "Bruno",
+    "apellido": "Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 68500
+  },
+  {
+    "id": 467,
+    "nombre": "Nicolás",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 27500
+  },
+  {
+    "id": 356,
+    "nombre": "Ximena",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 32500
+  },
+  {
+    "id": 512,
+    "nombre": "Mariana",
+    "apellido": "Vega",
+    "departamento": "Operaciones",
+    "salario": 24500
+  },
+  {
+    "id": 827,
+    "nombre": "Valeria",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 30500
+  },
+  {
+    "id": 633,
+    "nombre": "Nicolás",
+    "apellido": "Martínez",
+    "departamento": "Producción",
+    "salario": 68500
+  },
+  {
+    "id": 537,
+    "nombre": "Valeria",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 56000
+  },
+  {
+    "id": 529,
+    "nombre": "Fernanda",
+    "apellido": "Hernández",
+    "departamento": "Mercadotecnia",
+    "salario": 17500
+  },
+  {
+    "id": 297,
+    "nombre": "Montserrat",
+    "apellido": "Escobar",
+    "departamento": "Operaciones",
+    "salario": 52000
+  },
+  {
+    "id": 92,
+    "nombre": "Iván",
+    "apellido": "Navarro",
+    "departamento": "Producción",
+    "salario": 37500
+  },
+  {
+    "id": 307,
+    "nombre": "Nicolás",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 69000
+  },
+  {
+    "id": 850,
+    "nombre": "Nicolás",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 21000
+  },
+  {
+    "id": 406,
+    "nombre": "Ximena",
+    "apellido": "Rojas",
+    "departamento": "Tecnología",
+    "salario": 60000
+  },
+  {
+    "id": 384,
+    "nombre": "Rodrigo",
+    "apellido": "Navarro",
+    "departamento": "Finanzas",
+    "salario": 56000
+  },
+  {
+    "id": 697,
+    "nombre": "Daniela",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 67500
+  },
+  {
+    "id": 326,
+    "nombre": "Mariana",
+    "apellido": "Morales",
+    "departamento": "Producción",
+    "salario": 23500
+  },
+  {
+    "id": 19,
+    "nombre": "Tomás",
+    "apellido": "Vega",
+    "departamento": "Ventas",
+    "salario": 59500
+  },
+  {
+    "id": 575,
+    "nombre": "Abril",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 21500
+  },
+  {
+    "id": 908,
+    "nombre": "Andrés",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 68500
+  },
+  {
+    "id": 754,
+    "nombre": "Diego",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 66500
+  },
+  {
+    "id": 954,
+    "nombre": "Tomás",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 59500
+  },
+  {
+    "id": 191,
+    "nombre": "Leonardo",
+    "apellido": "Cortés",
+    "departamento": "Producción",
+    "salario": 39000
+  },
+  {
+    "id": 518,
+    "nombre": "Paola",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 55500
+  },
+  {
+    "id": 605,
+    "nombre": "Daniela",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 42000
+  },
+  {
+    "id": 813,
+    "nombre": "Emiliano",
+    "apellido": "Fuentes",
+    "departamento": "Operaciones",
+    "salario": 48000
+  },
+  {
+    "id": 12,
+    "nombre": "Abril",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 59500
+  },
+  {
+    "id": 190,
+    "nombre": "Abril",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 58500
+  },
+  {
+    "id": 49,
+    "nombre": "Ximena",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 22500
+  },
+  {
+    "id": 52,
+    "nombre": "Tomás",
+    "apellido": "Vega",
+    "departamento": "Calidad",
+    "salario": 59000
+  },
+  {
+    "id": 133,
+    "nombre": "Julián",
+    "apellido": "Salazar",
+    "departamento": "Ventas",
+    "salario": 15500
+  },
+  {
+    "id": 966,
+    "nombre": "Alejandro",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 26000
+  },
+  {
+    "id": 364,
+    "nombre": "Fernanda",
+    "apellido": "Medina",
+    "departamento": "Operaciones",
+    "salario": 63500
+  },
+  {
+    "id": 873,
+    "nombre": "Regina",
+    "apellido": "Cruz",
+    "departamento": "Ventas",
+    "salario": 53500
+  },
+  {
+    "id": 68,
+    "nombre": "Ximena",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 55000
+  },
+  {
+    "id": 163,
+    "nombre": "Fernanda",
+    "apellido": "Medina",
+    "departamento": "Ventas",
+    "salario": 15000
+  },
+  {
+    "id": 733,
+    "nombre": "Rodrigo",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 40000
+  },
+  {
+    "id": 917,
+    "nombre": "Valeria",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 21000
+  },
+  {
+    "id": 335,
+    "nombre": "Ana",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 37500
+  },
+  {
+    "id": 860,
+    "nombre": "Tomás",
+    "apellido": "Flores",
+    "departamento": "Operaciones",
+    "salario": 63000
+  },
+  {
+    "id": 250,
+    "nombre": "Bruno",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 17000
+  },
+  {
+    "id": 397,
+    "nombre": "Paola",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 35000
+  },
+  {
+    "id": 9,
+    "nombre": "Daniela",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 40000
+  },
+  {
+    "id": 573,
+    "nombre": "Sofía",
+    "apellido": "Ramírez",
+    "departamento": "Operaciones",
+    "salario": 27500
+  },
+  {
+    "id": 74,
+    "nombre": "Regina",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 60000
+  },
+  {
+    "id": 604,
+    "nombre": "Lucía",
+    "apellido": "Soto",
+    "departamento": "Recursos Humanos",
+    "salario": 55500
+  },
+  {
+    "id": 732,
+    "nombre": "Abril",
+    "apellido": "Martínez",
+    "departamento": "Tecnología",
+    "salario": 43000
+  },
+  {
+    "id": 308,
+    "nombre": "Valeria",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 40500
+  },
+  {
+    "id": 280,
+    "nombre": "Montserrat",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 63500
+  },
+  {
+    "id": 848,
+    "nombre": "Montserrat",
+    "apellido": "Flores",
+    "departamento": "Producción",
+    "salario": 23500
+  },
+  {
+    "id": 689,
+    "nombre": "Santiago",
+    "apellido": "Martínez",
+    "departamento": "Operaciones",
+    "salario": 30500
+  },
+  {
+    "id": 619,
+    "nombre": "Mariana",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 26000
+  },
+  {
+    "id": 167,
+    "nombre": "Mateo",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 62500
+  },
+  {
+    "id": 61,
+    "nombre": "Gabriela",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 24000
+  },
+  {
+    "id": 657,
+    "nombre": "Emiliano",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 54500
+  },
+  {
+    "id": 687,
+    "nombre": "Ximena",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 55500
+  },
+  {
+    "id": 865,
+    "nombre": "Valeria",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 16500
+  },
+  {
+    "id": 441,
+    "nombre": "Tomás",
+    "apellido": "Sánchez",
+    "departamento": "Operaciones",
+    "salario": 57500
+  },
+  {
+    "id": 490,
+    "nombre": "Ximena",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 42000
+  },
+  {
+    "id": 252,
+    "nombre": "Renata",
+    "apellido": "Jiménez",
+    "departamento": "Tecnología",
+    "salario": 62000
+  },
+  {
+    "id": 555,
+    "nombre": "Paola",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 57000
+  },
+  {
+    "id": 968,
+    "nombre": "Abril",
+    "apellido": "Martínez",
+    "departamento": "Operaciones",
+    "salario": 64500
+  },
+  {
+    "id": 819,
+    "nombre": "Camila",
+    "apellido": "Flores",
+    "departamento": "Calidad",
+    "salario": 36500
+  },
+  {
+    "id": 263,
+    "nombre": "Héctor",
+    "apellido": "Martínez",
+    "departamento": "Operaciones",
+    "salario": 33000
+  },
+  {
+    "id": 120,
+    "nombre": "Emiliano",
+    "apellido": "Ortiz",
+    "departamento": "Mercadotecnia",
+    "salario": 32000
+  },
+  {
+    "id": 499,
+    "nombre": "Héctor",
+    "apellido": "Mendoza",
+    "departamento": "Producción",
+    "salario": 44500
+  },
+  {
+    "id": 101,
+    "nombre": "Emiliano",
+    "apellido": "Reyes",
+    "departamento": "Tecnología",
+    "salario": 47500
+  },
+  {
+    "id": 742,
+    "nombre": "Tomás",
+    "apellido": "Ramírez",
+    "departamento": "Mercadotecnia",
+    "salario": 47000
+  },
+  {
+    "id": 121,
+    "nombre": "Emiliano",
+    "apellido": "Hernández",
+    "departamento": "Calidad",
+    "salario": 15500
+  },
+  {
+    "id": 549,
+    "nombre": "Iván",
+    "apellido": "Escobar",
+    "departamento": "Calidad",
+    "salario": 57500
+  },
+  {
+    "id": 90,
+    "nombre": "Joaquín",
+    "apellido": "Sánchez",
+    "departamento": "Tecnología",
+    "salario": 55000
+  },
+  {
+    "id": 584,
+    "nombre": "Andrés",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 19000
+  },
+  {
+    "id": 655,
+    "nombre": "Bruno",
+    "apellido": "Vega",
+    "departamento": "Operaciones",
+    "salario": 38000
+  },
+  {
+    "id": 916,
+    "nombre": "Ximena",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 62000
+  },
+  {
+    "id": 3,
+    "nombre": "Ximena",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 24500
+  },
+  {
+    "id": 983,
+    "nombre": "Tomás",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 64000
+  },
+  {
+    "id": 572,
+    "nombre": "Ximena",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 19000
+  },
+  {
+    "id": 277,
+    "nombre": "Andrés",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 17500
+  },
+  {
+    "id": 544,
+    "nombre": "Camila",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 61000
+  },
+  {
+    "id": 877,
+    "nombre": "Mateo",
+    "apellido": "Sánchez",
+    "departamento": "Producción",
+    "salario": 34500
+  },
+  {
+    "id": 705,
+    "nombre": "Andrés",
+    "apellido": "Sánchez",
+    "departamento": "Operaciones",
+    "salario": 41000
+  },
+  {
+    "id": 812,
+    "nombre": "Santiago",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 48500
+  },
+  {
+    "id": 125,
+    "nombre": "Joaquín",
+    "apellido": "Salazar",
+    "departamento": "Tecnología",
+    "salario": 68500
+  },
+  {
+    "id": 997,
+    "nombre": "Andrés",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 51000
+  },
+  {
+    "id": 203,
+    "nombre": "Fernanda",
+    "apellido": "Hernández",
+    "departamento": "Ventas",
+    "salario": 63000
+  },
+  {
+    "id": 249,
+    "nombre": "Renata",
+    "apellido": "Salazar",
+    "departamento": "Operaciones",
+    "salario": 37000
+  },
+  {
+    "id": 647,
+    "nombre": "Daniela",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 52500
+  },
+  {
+    "id": 6,
+    "nombre": "Renata",
+    "apellido": "Hernández",
+    "departamento": "Tecnología",
+    "salario": 60500
+  },
+  {
+    "id": 462,
+    "nombre": "Andrés",
+    "apellido": "Luna",
+    "departamento": "Finanzas",
+    "salario": 41000
+  },
+  {
+    "id": 132,
+    "nombre": "Mateo",
+    "apellido": "Medina",
+    "departamento": "Tecnología",
+    "salario": 38500
+  },
+  {
+    "id": 656,
+    "nombre": "Abril",
+    "apellido": "Cortés",
+    "departamento": "Finanzas",
+    "salario": 69000
+  },
+  {
+    "id": 402,
+    "nombre": "Emiliano",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 48000
+  },
+  {
+    "id": 532,
+    "nombre": "Gabriela",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 65000
+  },
+  {
+    "id": 450,
+    "nombre": "Andrés",
+    "apellido": "Navarro",
+    "departamento": "Finanzas",
+    "salario": 16000
+  },
+  {
+    "id": 176,
+    "nombre": "Regina",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 31000
+  },
+  {
+    "id": 936,
+    "nombre": "Paola",
+    "apellido": "López",
+    "departamento": "Operaciones",
+    "salario": 65500
+  },
+  {
+    "id": 778,
+    "nombre": "Nicolás",
+    "apellido": "Paredes",
+    "departamento": "Tecnología",
+    "salario": 65500
+  },
+  {
+    "id": 425,
+    "nombre": "Lucía",
+    "apellido": "Escobar",
+    "departamento": "Finanzas",
+    "salario": 51500
+  },
+  {
+    "id": 639,
+    "nombre": "Sofía",
+    "apellido": "Rojas",
+    "departamento": "Finanzas",
+    "salario": 68000
+  },
+  {
+    "id": 505,
+    "nombre": "Camila",
+    "apellido": "Navarro",
+    "departamento": "Calidad",
+    "salario": 68000
+  },
+  {
+    "id": 482,
+    "nombre": "Alejandra",
+    "apellido": "Ríos",
+    "departamento": "Recursos Humanos",
+    "salario": 39000
+  },
+  {
+    "id": 461,
+    "nombre": "Lucía",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 44500
+  },
+  {
+    "id": 759,
+    "nombre": "Alejandra",
+    "apellido": "Fuentes",
+    "departamento": "Finanzas",
+    "salario": 64000
+  },
+  {
+    "id": 952,
+    "nombre": "Héctor",
+    "apellido": "Sánchez",
+    "departamento": "Finanzas",
+    "salario": 62500
+  },
+  {
+    "id": 695,
+    "nombre": "Ximena",
+    "apellido": "Ríos",
+    "departamento": "Tecnología",
+    "salario": 55000
+  },
+  {
+    "id": 42,
+    "nombre": "Valeria",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 64500
+  },
+  {
+    "id": 615,
+    "nombre": "Regina",
+    "apellido": "Medina",
+    "departamento": "Mercadotecnia",
+    "salario": 35500
+  },
+  {
+    "id": 718,
+    "nombre": "Montserrat",
+    "apellido": "Paredes",
+    "departamento": "Ventas",
+    "salario": 22000
+  },
+  {
+    "id": 95,
+    "nombre": "Julián",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 25000
+  },
+  {
+    "id": 840,
+    "nombre": "Santiago",
+    "apellido": "Cortés",
+    "departamento": "Calidad",
+    "salario": 50500
+  },
+  {
+    "id": 662,
+    "nombre": "Sofía",
+    "apellido": "Soto",
+    "departamento": "Mercadotecnia",
+    "salario": 68000
+  },
+  {
+    "id": 834,
+    "nombre": "Rodrigo",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 43000
+  },
+  {
+    "id": 726,
+    "nombre": "Abril",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 58500
+  },
+  {
+    "id": 180,
+    "nombre": "Valeria",
+    "apellido": "Paredes",
+    "departamento": "Finanzas",
+    "salario": 58500
+  },
+  {
+    "id": 768,
+    "nombre": "Santiago",
+    "apellido": "Fuentes",
+    "departamento": "Ventas",
+    "salario": 18000
+  },
+  {
+    "id": 94,
+    "nombre": "Abril",
+    "apellido": "Martínez",
+    "departamento": "Recursos Humanos",
+    "salario": 62000
+  },
+  {
+    "id": 349,
+    "nombre": "Alejandra",
+    "apellido": "Vega",
+    "departamento": "Ventas",
+    "salario": 56000
+  },
+  {
+    "id": 836,
+    "nombre": "Daniela",
+    "apellido": "Mendoza",
+    "departamento": "Operaciones",
+    "salario": 32000
+  },
+  {
+    "id": 185,
+    "nombre": "Diego",
+    "apellido": "Soto",
+    "departamento": "Producción",
+    "salario": 30000
+  },
+  {
+    "id": 472,
+    "nombre": "Mateo",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 28000
+  },
+  {
+    "id": 445,
+    "nombre": "Héctor",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 39000
+  },
+  {
+    "id": 938,
+    "nombre": "Andrés",
+    "apellido": "Soto",
+    "departamento": "Mercadotecnia",
+    "salario": 35500
+  },
+  {
+    "id": 784,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 55000
+  },
+  {
+    "id": 627,
+    "nombre": "Camila",
+    "apellido": "Ortiz",
+    "departamento": "Ventas",
+    "salario": 29500
+  },
+  {
+    "id": 468,
+    "nombre": "Gabriela",
+    "apellido": "Morales",
+    "departamento": "Tecnología",
+    "salario": 24500
+  },
+  {
+    "id": 923,
+    "nombre": "Tomás",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 69500
+  },
+  {
+    "id": 115,
+    "nombre": "Fernanda",
+    "apellido": "Escobar",
+    "departamento": "Mercadotecnia",
+    "salario": 51000
+  },
+  {
+    "id": 624,
+    "nombre": "Nicolás",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 18000
+  },
+  {
+    "id": 550,
+    "nombre": "Joaquín",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 25500
+  },
+  {
+    "id": 427,
+    "nombre": "Bruno",
+    "apellido": "Escobar",
+    "departamento": "Calidad",
+    "salario": 54000
+  },
+  {
+    "id": 330,
+    "nombre": "Iván",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 43000
+  },
+  {
+    "id": 26,
+    "nombre": "Sofía",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 44500
+  },
+  {
+    "id": 228,
+    "nombre": "Bruno",
+    "apellido": "Paredes",
+    "departamento": "Mercadotecnia",
+    "salario": 25000
+  },
+  {
+    "id": 192,
+    "nombre": "Sebastián",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 42500
+  },
+  {
+    "id": 958,
+    "nombre": "Lucía",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 47500
+  },
+  {
+    "id": 117,
+    "nombre": "Santiago",
+    "apellido": "Ramírez",
+    "departamento": "Producción",
+    "salario": 41000
+  },
+  {
+    "id": 803,
+    "nombre": "Andrés",
+    "apellido": "Torres",
+    "departamento": "Calidad",
+    "salario": 44000
+  },
+  {
+    "id": 169,
+    "nombre": "Fernanda",
+    "apellido": "Cruz",
+    "departamento": "Finanzas",
+    "salario": 50500
+  },
+  {
+    "id": 809,
+    "nombre": "Bruno",
+    "apellido": "Paredes",
+    "departamento": "Tecnología",
+    "salario": 37000
+  },
+  {
+    "id": 688,
+    "nombre": "Regina",
+    "apellido": "López",
+    "departamento": "Finanzas",
+    "salario": 39500
+  },
+  {
+    "id": 245,
+    "nombre": "Fernanda",
+    "apellido": "López",
+    "departamento": "Mercadotecnia",
+    "salario": 24000
+  },
+  {
+    "id": 428,
+    "nombre": "Camila",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 35500
+  },
+  {
+    "id": 200,
+    "nombre": "Bruno",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 62000
+  },
+  {
+    "id": 188,
+    "nombre": "Camila",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 21500
+  },
+  {
+    "id": 130,
+    "nombre": "Santiago",
+    "apellido": "Cortés",
+    "departamento": "Producción",
+    "salario": 32500
+  },
+  {
+    "id": 32,
+    "nombre": "Regina",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 26500
+  },
+  {
+    "id": 906,
+    "nombre": "Leonardo",
+    "apellido": "Fuentes",
+    "departamento": "Finanzas",
+    "salario": 23500
+  },
+  {
+    "id": 433,
+    "nombre": "Héctor",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 16000
+  },
+  {
+    "id": 361,
+    "nombre": "Julián",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 19000
+  },
+  {
+    "id": 972,
+    "nombre": "Héctor",
+    "apellido": "Soto",
+    "departamento": "Recursos Humanos",
+    "salario": 27000
+  },
+  {
+    "id": 477,
+    "nombre": "Mariana",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 28000
+  },
+  {
+    "id": 669,
+    "nombre": "Renata",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 36000
+  },
+  {
+    "id": 517,
+    "nombre": "Sofía",
+    "apellido": "Paredes",
+    "departamento": "Tecnología",
+    "salario": 61000
+  },
+  {
+    "id": 216,
+    "nombre": "Montserrat",
+    "apellido": "Navarro",
+    "departamento": "Operaciones",
+    "salario": 28500
+  },
+  {
+    "id": 574,
+    "nombre": "Tomás",
+    "apellido": "Reyes",
+    "departamento": "Operaciones",
+    "salario": 52000
+  },
+  {
+    "id": 975,
+    "nombre": "Montserrat",
+    "apellido": "Medina",
+    "departamento": "Mercadotecnia",
+    "salario": 26500
+  },
+  {
+    "id": 614,
+    "nombre": "Tomás",
+    "apellido": "Morales",
+    "departamento": "Ventas",
+    "salario": 38500
+  },
+  {
+    "id": 595,
+    "nombre": "Paola",
+    "apellido": "Reyes",
+    "departamento": "Recursos Humanos",
+    "salario": 52500
+  },
+  {
+    "id": 698,
+    "nombre": "Iván",
+    "apellido": "Hernández",
+    "departamento": "Operaciones",
+    "salario": 67500
+  },
+  {
+    "id": 371,
+    "nombre": "Emiliano",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 34000
+  },
+  {
+    "id": 493,
+    "nombre": "Ana",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 26000
+  },
+  {
+    "id": 539,
+    "nombre": "Ximena",
+    "apellido": "Mendoza",
+    "departamento": "Producción",
+    "salario": 18000
+  },
+  {
+    "id": 496,
+    "nombre": "Joaquín",
+    "apellido": "López",
+    "departamento": "Finanzas",
+    "salario": 65500
+  },
+  {
+    "id": 723,
+    "nombre": "Andrés",
+    "apellido": "Luna",
+    "departamento": "Mercadotecnia",
+    "salario": 42000
+  },
+  {
+    "id": 900,
+    "nombre": "Nicolás",
+    "apellido": "Flores",
+    "departamento": "Finanzas",
+    "salario": 67000
+  },
+  {
+    "id": 918,
+    "nombre": "Sofía",
+    "apellido": "Medina",
+    "departamento": "Producción",
+    "salario": 23500
+  },
+  {
+    "id": 891,
+    "nombre": "Tomás",
+    "apellido": "Cruz",
+    "departamento": "Operaciones",
+    "salario": 42500
+  },
+  {
+    "id": 435,
+    "nombre": "Lucía",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 23500
+  },
+  {
+    "id": 36,
+    "nombre": "Bruno",
+    "apellido": "Medina",
+    "departamento": "Operaciones",
+    "salario": 16500
+  },
+  {
+    "id": 551,
+    "nombre": "Andrés",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 51500
+  },
+  {
+    "id": 569,
+    "nombre": "Fernanda",
+    "apellido": "Hernández",
+    "departamento": "Operaciones",
+    "salario": 17500
+  },
+  {
+    "id": 104,
+    "nombre": "Joaquín",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 47000
+  },
+  {
+    "id": 731,
+    "nombre": "Julián",
+    "apellido": "Soto",
+    "departamento": "Ventas",
+    "salario": 21000
+  },
+  {
+    "id": 269,
+    "nombre": "Gabriela",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 15500
+  },
+  {
+    "id": 152,
+    "nombre": "Ana",
+    "apellido": "Rojas",
+    "departamento": "Producción",
+    "salario": 30000
+  },
+  {
+    "id": 790,
+    "nombre": "Diego",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 59500
+  },
+  {
+    "id": 215,
+    "nombre": "Emiliano",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 57500
+  },
+  {
+    "id": 127,
+    "nombre": "Gabriela",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 67500
+  },
+  {
+    "id": 99,
+    "nombre": "Emiliano",
+    "apellido": "Flores",
+    "departamento": "Ventas",
+    "salario": 57000
+  },
+  {
+    "id": 893,
+    "nombre": "Daniela",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 33500
+  },
+  {
+    "id": 206,
+    "nombre": "Sebastián",
+    "apellido": "Martínez",
+    "departamento": "Recursos Humanos",
+    "salario": 42500
+  },
+  {
+    "id": 612,
+    "nombre": "Diego",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 23000
+  },
+  {
+    "id": 380,
+    "nombre": "Paola",
+    "apellido": "Luna",
+    "departamento": "Calidad",
+    "salario": 15500
+  },
+  {
+    "id": 329,
+    "nombre": "Camila",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 28500
+  },
+  {
+    "id": 339,
+    "nombre": "Gabriela",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 29500
+  },
+  {
+    "id": 288,
+    "nombre": "Sofía",
+    "apellido": "Sánchez",
+    "departamento": "Tecnología",
+    "salario": 29000
+  },
+  {
+    "id": 949,
+    "nombre": "Héctor",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 31500
+  },
+  {
+    "id": 478,
+    "nombre": "Abril",
+    "apellido": "Fuentes",
+    "departamento": "Ventas",
+    "salario": 33000
+  },
+  {
+    "id": 787,
+    "nombre": "Montserrat",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 63500
+  },
+  {
+    "id": 341,
+    "nombre": "Emiliano",
+    "apellido": "Ramírez",
+    "departamento": "Operaciones",
+    "salario": 60500
+  },
+  {
+    "id": 889,
+    "nombre": "Montserrat",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 25500
+  },
+  {
+    "id": 236,
+    "nombre": "Montserrat",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 63000
+  },
+  {
+    "id": 213,
+    "nombre": "Sofía",
+    "apellido": "Navarro",
+    "departamento": "Producción",
+    "salario": 15500
+  },
+  {
+    "id": 10,
+    "nombre": "Renata",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 29500
+  },
+  {
+    "id": 281,
+    "nombre": "Sofía",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 43000
+  },
+  {
+    "id": 589,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Finanzas",
+    "salario": 18500
+  },
+  {
+    "id": 246,
+    "nombre": "Lucía",
+    "apellido": "Reyes",
+    "departamento": "Tecnología",
+    "salario": 15000
+  },
+  {
+    "id": 826,
+    "nombre": "Camila",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 25500
+  },
+  {
+    "id": 654,
+    "nombre": "Julián",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 43000
+  },
+  {
+    "id": 322,
+    "nombre": "Daniela",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 31500
+  },
+  {
+    "id": 520,
+    "nombre": "Sofía",
+    "apellido": "Flores",
+    "departamento": "Calidad",
+    "salario": 57500
+  },
+  {
+    "id": 943,
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 39500
+  },
+  {
+    "id": 767,
+    "nombre": "Regina",
+    "apellido": "Luna",
+    "departamento": "Calidad",
+    "salario": 57000
+  },
+  {
+    "id": 853,
+    "nombre": "Camila",
+    "apellido": "Torres",
+    "departamento": "Producción",
+    "salario": 25500
+  },
+  {
+    "id": 309,
+    "nombre": "Renata",
+    "apellido": "Soto",
+    "departamento": "Operaciones",
+    "salario": 60500
+  },
+  {
+    "id": 199,
+    "nombre": "Sofía",
+    "apellido": "Ortiz",
+    "departamento": "Finanzas",
+    "salario": 53500
+  },
+  {
+    "id": 105,
+    "nombre": "Nicolás",
+    "apellido": "Fuentes",
+    "departamento": "Mercadotecnia",
+    "salario": 43500
+  },
+  {
+    "id": 91,
+    "nombre": "Tomás",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 51000
+  },
+  {
+    "id": 552,
+    "nombre": "Renata",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 58500
+  },
+  {
+    "id": 553,
+    "nombre": "Mateo",
+    "apellido": "García",
+    "departamento": "Tecnología",
+    "salario": 38500
+  },
+  {
+    "id": 933,
+    "nombre": "Andrés",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 36500
+  },
+  {
+    "id": 350,
+    "nombre": "Emiliano",
+    "apellido": "Salazar",
+    "departamento": "Producción",
+    "salario": 69000
+  },
+  {
+    "id": 440,
+    "nombre": "Mariana",
+    "apellido": "Paredes",
+    "departamento": "Recursos Humanos",
+    "salario": 17500
+  },
+  {
+    "id": 264,
+    "nombre": "Alejandra",
+    "apellido": "Escobar",
+    "departamento": "Finanzas",
+    "salario": 62000
+  },
+  {
+    "id": 243,
+    "nombre": "Santiago",
+    "apellido": "Vega",
+    "departamento": "Operaciones",
+    "salario": 38500
+  },
+  {
+    "id": 455,
+    "nombre": "Montserrat",
+    "apellido": "Rojas",
+    "departamento": "Ventas",
+    "salario": 28500
+  },
+  {
+    "id": 915,
+    "nombre": "Iván",
+    "apellido": "Luna",
+    "departamento": "Ventas",
+    "salario": 37500
+  },
+  {
+    "id": 150,
+    "nombre": "Daniela",
+    "apellido": "Escobar",
+    "departamento": "Recursos Humanos",
+    "salario": 59000
+  },
+  {
+    "id": 890,
+    "nombre": "Santiago",
+    "apellido": "Mendoza",
+    "departamento": "Tecnología",
+    "salario": 18000
+  },
+  {
+    "id": 511,
+    "nombre": "Ana",
+    "apellido": "Jiménez",
+    "departamento": "Tecnología",
+    "salario": 67500
+  },
+  {
+    "id": 533,
+    "nombre": "Paola",
+    "apellido": "Cruz",
+    "departamento": "Calidad",
+    "salario": 60500
+  },
+  {
+    "id": 225,
+    "nombre": "Rodrigo",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 30000
+  },
+  {
+    "id": 423,
+    "nombre": "Ana",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 63500
+  },
+  {
+    "id": 16,
+    "nombre": "Iván",
+    "apellido": "Ortiz",
+    "departamento": "Mercadotecnia",
+    "salario": 18000
+  },
+  {
+    "id": 328,
+    "nombre": "Fernanda",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 20500
+  },
+  {
+    "id": 536,
+    "nombre": "Diego",
+    "apellido": "Martínez",
+    "departamento": "Tecnología",
+    "salario": 33500
+  },
+  {
+    "id": 962,
+    "nombre": "Andrés",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 66000
+  },
+  {
+    "id": 851,
+    "nombre": "Diego",
+    "apellido": "Jiménez",
+    "departamento": "Operaciones",
+    "salario": 23000
+  },
+  {
+    "id": 447,
+    "nombre": "Regina",
+    "apellido": "Martínez",
+    "departamento": "Calidad",
+    "salario": 31500
+  },
+  {
+    "id": 205,
+    "nombre": "Camila",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 26000
+  },
+  {
+    "id": 444,
+    "nombre": "Paola",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 48000
+  },
+  {
+    "id": 64,
+    "nombre": "Sebastián",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 25500
+  },
+  {
+    "id": 571,
+    "nombre": "Nicolás",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 20500
+  },
+  {
+    "id": 960,
+    "nombre": "Gabriela",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 48500
+  },
+  {
+    "id": 58,
+    "nombre": "Emiliano",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 49500
+  },
+  {
+    "id": 114,
+    "nombre": "Regina",
+    "apellido": "Sánchez",
+    "departamento": "Mercadotecnia",
+    "salario": 69500
+  },
+  {
+    "id": 2,
+    "nombre": "Leonardo",
+    "apellido": "Medina",
+    "departamento": "Mercadotecnia",
+    "salario": 15500
+  },
+  {
+    "id": 808,
+    "nombre": "Julián",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 53000
+  },
+  {
+    "id": 579,
+    "nombre": "Nicolás",
+    "apellido": "García",
+    "departamento": "Calidad",
+    "salario": 41000
+  },
+  {
+    "id": 438,
+    "nombre": "Ximena",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 64500
+  },
+  {
+    "id": 599,
+    "nombre": "Diego",
+    "apellido": "Hernández",
+    "departamento": "Ventas",
+    "salario": 18000
+  },
+  {
+    "id": 71,
+    "nombre": "Mariana",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 41500
+  },
+  {
+    "id": 183,
+    "nombre": "Mateo",
+    "apellido": "Martínez",
+    "departamento": "Operaciones",
+    "salario": 55500
+  },
+  {
+    "id": 899,
+    "nombre": "Andrés",
+    "apellido": "Ramírez",
+    "departamento": "Recursos Humanos",
+    "salario": 32000
+  },
+  {
+    "id": 448,
+    "nombre": "Santiago",
+    "apellido": "Paredes",
+    "departamento": "Producción",
+    "salario": 64500
+  },
+  {
+    "id": 645,
+    "nombre": "Fernanda",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 51000
+  },
+  {
+    "id": 162,
+    "nombre": "Joaquín",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 38000
+  },
+  {
+    "id": 363,
+    "nombre": "Abril",
+    "apellido": "Ramírez",
+    "departamento": "Producción",
+    "salario": 16000
+  },
+  {
+    "id": 716,
+    "nombre": "Camila",
+    "apellido": "Fuentes",
+    "departamento": "Finanzas",
+    "salario": 67500
+  },
+  {
+    "id": 370,
+    "nombre": "Iván",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 50000
+  },
+  {
+    "id": 677,
+    "nombre": "Julián",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 32000
+  },
+  {
+    "id": 144,
+    "nombre": "Rodrigo",
+    "apellido": "Morales",
+    "departamento": "Operaciones",
+    "salario": 27000
+  },
+  {
+    "id": 100,
+    "nombre": "Sofía",
+    "apellido": "Morales",
+    "departamento": "Calidad",
+    "salario": 18500
+  },
+  {
+    "id": 590,
+    "nombre": "Joaquín",
+    "apellido": "Cortés",
+    "departamento": "Tecnología",
+    "salario": 64000
+  },
+  {
+    "id": 47,
+    "nombre": "Héctor",
+    "apellido": "Fuentes",
+    "departamento": "Calidad",
+    "salario": 18000
+  },
+  {
+    "id": 337,
+    "nombre": "Mariana",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 47000
+  },
+  {
+    "id": 522,
+    "nombre": "Renata",
+    "apellido": "Cortés",
+    "departamento": "Calidad",
+    "salario": 24500
+  },
+  {
+    "id": 70,
+    "nombre": "Iván",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 17500
+  },
+  {
+    "id": 990,
+    "nombre": "Camila",
+    "apellido": "Sánchez",
+    "departamento": "Recursos Humanos",
+    "salario": 64000
+  },
+  {
+    "id": 563,
+    "nombre": "Camila",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 47000
+  },
+  {
+    "id": 456,
+    "nombre": "Renata",
+    "apellido": "López",
+    "departamento": "Operaciones",
+    "salario": 33500
+  },
+  {
+    "id": 875,
+    "nombre": "Héctor",
+    "apellido": "Cruz",
+    "departamento": "Calidad",
+    "salario": 43500
+  },
+  {
+    "id": 97,
+    "nombre": "Alejandro",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 28500
+  },
+  {
+    "id": 170,
+    "nombre": "Montserrat",
+    "apellido": "Ortiz",
+    "departamento": "Ventas",
+    "salario": 49000
+  },
+  {
+    "id": 146,
+    "nombre": "Mariana",
+    "apellido": "García",
+    "departamento": "Finanzas",
+    "salario": 19000
+  },
+  {
+    "id": 488,
+    "nombre": "Mariana",
+    "apellido": "Torres",
+    "departamento": "Mercadotecnia",
+    "salario": 29500
+  },
+  {
+    "id": 131,
+    "nombre": "Iván",
+    "apellido": "Luna",
+    "departamento": "Recursos Humanos",
+    "salario": 58000
+  },
+  {
+    "id": 394,
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "departamento": "Operaciones",
+    "salario": 31500
+  },
+  {
+    "id": 905,
+    "nombre": "Sofía",
+    "apellido": "Cortés",
+    "departamento": "Producción",
+    "salario": 41500
+  },
+  {
+    "id": 235,
+    "nombre": "Mariana",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 28000
+  },
+  {
+    "id": 135,
+    "nombre": "Andrés",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 29000
+  },
+  {
+    "id": 372,
+    "nombre": "Rodrigo",
+    "apellido": "Salazar",
+    "departamento": "Operaciones",
+    "salario": 41500
+  },
+  {
+    "id": 825,
+    "nombre": "Joaquín",
+    "apellido": "Ortiz",
+    "departamento": "Operaciones",
+    "salario": 68000
+  },
+  {
+    "id": 831,
+    "nombre": "Sofía",
+    "apellido": "Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 69000
+  },
+  {
+    "id": 196,
+    "nombre": "Daniela",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 56500
+  },
+  {
+    "id": 987,
+    "nombre": "Gabriela",
+    "apellido": "Ramírez",
+    "departamento": "Recursos Humanos",
+    "salario": 24500
+  },
+  {
+    "id": 703,
+    "nombre": "Renata",
+    "apellido": "Cruz",
+    "departamento": "Calidad",
+    "salario": 17500
+  },
+  {
+    "id": 894,
+    "nombre": "Héctor",
+    "apellido": "Ríos",
+    "departamento": "Recursos Humanos",
+    "salario": 44000
+  },
+  {
+    "id": 18,
+    "nombre": "Héctor",
+    "apellido": "Salazar",
+    "departamento": "Ventas",
+    "salario": 56000
+  },
+  {
+    "id": 582,
+    "nombre": "Camila",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 20000
+  },
+  {
+    "id": 276,
+    "nombre": "Joaquín",
+    "apellido": "Reyes",
+    "departamento": "Mercadotecnia",
+    "salario": 17000
+  },
+  {
+    "id": 107,
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 34500
+  },
+  {
+    "id": 187,
+    "nombre": "Emiliano",
+    "apellido": "Salazar",
+    "departamento": "Operaciones",
+    "salario": 63000
+  },
+  {
+    "id": 613,
+    "nombre": "Alejandra",
+    "apellido": "Sánchez",
+    "departamento": "Recursos Humanos",
+    "salario": 47500
+  },
+  {
+    "id": 279,
+    "nombre": "Tomás",
+    "apellido": "Paredes",
+    "departamento": "Tecnología",
+    "salario": 37000
+  },
+  {
+    "id": 988,
+    "nombre": "Paola",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 30500
+  },
+  {
+    "id": 69,
+    "nombre": "Valeria",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 69000
+  },
+  {
+    "id": 110,
+    "nombre": "Montserrat",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 47000
+  },
+  {
+    "id": 429,
+    "nombre": "Mariana",
+    "apellido": "Vega",
+    "departamento": "Mercadotecnia",
+    "salario": 58500
+  },
+  {
+    "id": 798,
+    "nombre": "Camila",
+    "apellido": "Ramírez",
+    "departamento": "Finanzas",
+    "salario": 52500
+  },
+  {
+    "id": 409,
+    "nombre": "Paola",
+    "apellido": "Cortés",
+    "departamento": "Producción",
+    "salario": 34500
+  },
+  {
+    "id": 355,
+    "nombre": "Joaquín",
+    "apellido": "Escobar",
+    "departamento": "Finanzas",
+    "salario": 60000
+  },
+  {
+    "id": 21,
+    "nombre": "Joaquín",
+    "apellido": "Sánchez",
+    "departamento": "Tecnología",
+    "salario": 37000
+  },
+  {
+    "id": 715,
+    "nombre": "Ana",
+    "apellido": "García",
+    "departamento": "Calidad",
+    "salario": 56500
+  },
+  {
+    "id": 266,
+    "nombre": "Daniela",
+    "apellido": "Hernández",
+    "departamento": "Ventas",
+    "salario": 51500
+  },
+  {
+    "id": 81,
+    "nombre": "Daniela",
+    "apellido": "Martínez",
+    "departamento": "Finanzas",
+    "salario": 64000
+  },
+  {
+    "id": 396,
+    "nombre": "Andrés",
+    "apellido": "Sánchez",
+    "departamento": "Tecnología",
+    "salario": 19000
+  },
+  {
+    "id": 745,
+    "nombre": "Camila",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 33500
+  },
+  {
+    "id": 713,
+    "nombre": "Mariana",
+    "apellido": "Rojas",
+    "departamento": "Mercadotecnia",
+    "salario": 61000
+  },
+  {
+    "id": 160,
+    "nombre": "Valeria",
+    "apellido": "Soto",
+    "departamento": "Tecnología",
+    "salario": 62000
+  },
+  {
+    "id": 679,
+    "nombre": "Valeria",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 23000
+  },
+  {
+    "id": 377,
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 42000
+  },
+  {
+    "id": 872,
+    "nombre": "Mariana",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 66500
+  },
+  {
+    "id": 359,
+    "nombre": "Alejandro",
+    "apellido": "Fuentes",
+    "departamento": "Operaciones",
+    "salario": 25000
+  },
+  {
+    "id": 670,
+    "nombre": "Valeria",
+    "apellido": "Rojas",
+    "departamento": "Tecnología",
+    "salario": 59000
+  },
+  {
+    "id": 473,
+    "nombre": "Renata",
+    "apellido": "Cortés",
+    "departamento": "Operaciones",
+    "salario": 27000
+  },
+  {
+    "id": 233,
+    "nombre": "Andrés",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 42000
+  },
+  {
+    "id": 174,
+    "nombre": "Paola",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 16000
+  },
+  {
+    "id": 780,
+    "nombre": "Andrés",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 36500
+  },
+  {
+    "id": 986,
+    "nombre": "Fernanda",
+    "apellido": "Luna",
+    "departamento": "Producción",
+    "salario": 66000
+  },
+  {
+    "id": 260,
+    "nombre": "Mateo",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 36000
+  },
+  {
+    "id": 368,
+    "nombre": "Alejandra",
+    "apellido": "Ortiz",
+    "departamento": "Finanzas",
+    "salario": 37500
+  },
+  {
+    "id": 596,
+    "nombre": "Santiago",
+    "apellido": "Escobar",
+    "departamento": "Operaciones",
+    "salario": 42000
+  },
+  {
+    "id": 841,
+    "nombre": "Santiago",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 32500
+  },
+  {
+    "id": 994,
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "departamento": "Finanzas",
+    "salario": 25000
+  },
+  {
+    "id": 449,
+    "nombre": "Andrés",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 21000
+  },
+  {
+    "id": 148,
+    "nombre": "Montserrat",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 21500
+  },
+  {
+    "id": 198,
+    "nombre": "Sofía",
+    "apellido": "Sánchez",
+    "departamento": "Producción",
+    "salario": 48000
+  },
+  {
+    "id": 546,
+    "nombre": "Julián",
+    "apellido": "Morales",
+    "departamento": "Calidad",
+    "salario": 43500
+  },
+  {
+    "id": 88,
+    "nombre": "Paola",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 56500
+  },
+  {
+    "id": 291,
+    "nombre": "Camila",
+    "apellido": "Luna",
+    "departamento": "Operaciones",
+    "salario": 55000
+  },
+  {
+    "id": 247,
+    "nombre": "Joaquín",
+    "apellido": "Torres",
+    "departamento": "Finanzas",
+    "salario": 66500
+  },
+  {
+    "id": 621,
+    "nombre": "Fernanda",
+    "apellido": "Ramírez",
+    "departamento": "Mercadotecnia",
+    "salario": 48000
+  },
+  {
+    "id": 577,
+    "nombre": "Santiago",
+    "apellido": "Ortiz",
+    "departamento": "Mercadotecnia",
+    "salario": 23000
+  },
+  {
+    "id": 888,
+    "nombre": "Sebastián",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 59000
+  },
+  {
+    "id": 77,
+    "nombre": "Santiago",
+    "apellido": "Navarro",
+    "departamento": "Recursos Humanos",
+    "salario": 39000
+  },
+  {
+    "id": 948,
+    "nombre": "Ana",
+    "apellido": "Cortés",
+    "departamento": "Operaciones",
+    "salario": 16000
+  },
+  {
+    "id": 265,
+    "nombre": "Emiliano",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 49500
+  },
+  {
+    "id": 261,
+    "nombre": "Héctor",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 40000
+  },
+  {
+    "id": 426,
+    "nombre": "Tomás",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 16000
+  },
+  {
+    "id": 212,
+    "nombre": "Gabriela",
+    "apellido": "Medina",
+    "departamento": "Recursos Humanos",
+    "salario": 30000
+  },
+  {
+    "id": 598,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Producción",
+    "salario": 36500
+  },
+  {
+    "id": 460,
+    "nombre": "Renata",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 20000
+  },
+  {
+    "id": 387,
+    "nombre": "Diego",
+    "apellido": "Ramírez",
+    "departamento": "Ventas",
+    "salario": 44500
+  },
+  {
+    "id": 830,
+    "nombre": "Camila",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 16500
+  },
+  {
+    "id": 592,
+    "nombre": "Alejandro",
+    "apellido": "Navarro",
+    "departamento": "Producción",
+    "salario": 48000
+  },
+  {
+    "id": 817,
+    "nombre": "Paola",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 57500
+  },
+  {
+    "id": 319,
+    "nombre": "Regina",
+    "apellido": "López",
+    "departamento": "Ventas",
+    "salario": 45500
+  },
+  {
+    "id": 904,
+    "nombre": "Daniela",
+    "apellido": "Morales",
+    "departamento": "Finanzas",
+    "salario": 15500
+  },
+  {
+    "id": 416,
+    "nombre": "Sofía",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 27000
+  },
+  {
+    "id": 862,
+    "nombre": "Alejandro",
+    "apellido": "Torres",
+    "departamento": "Recursos Humanos",
+    "salario": 22500
+  },
+  {
+    "id": 708,
+    "nombre": "Sebastián",
+    "apellido": "Escobar",
+    "departamento": "Tecnología",
+    "salario": 31000
+  },
+  {
+    "id": 96,
+    "nombre": "Andrés",
+    "apellido": "Rojas",
+    "departamento": "Ventas",
+    "salario": 22000
+  },
+  {
+    "id": 459,
+    "nombre": "Ximena",
+    "apellido": "Reyes",
+    "departamento": "Tecnología",
+    "salario": 16000
+  },
+  {
+    "id": 362,
+    "nombre": "Iván",
+    "apellido": "García",
+    "departamento": "Producción",
+    "salario": 66500
+  },
+  {
+    "id": 491,
+    "nombre": "Héctor",
+    "apellido": "Cruz",
+    "departamento": "Tecnología",
+    "salario": 52500
+  },
+  {
+    "id": 810,
+    "nombre": "Julián",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 69000
+  },
+  {
+    "id": 609,
+    "nombre": "Ximena",
+    "apellido": "Reyes",
+    "departamento": "Mercadotecnia",
+    "salario": 37000
+  },
+  {
+    "id": 833,
+    "nombre": "Abril",
+    "apellido": "Mendoza",
+    "departamento": "Finanzas",
+    "salario": 63000
+  },
+  {
+    "id": 80,
+    "nombre": "Santiago",
+    "apellido": "García",
+    "departamento": "Operaciones",
+    "salario": 34500
+  },
+  {
+    "id": 838,
+    "nombre": "Abril",
+    "apellido": "Jiménez",
+    "departamento": "Tecnología",
+    "salario": 53500
+  },
+  {
+    "id": 671,
+    "nombre": "Mateo",
+    "apellido": "Martínez",
+    "departamento": "Recursos Humanos",
+    "salario": 16500
+  },
+  {
+    "id": 197,
+    "nombre": "Iván",
+    "apellido": "Ríos",
+    "departamento": "Tecnología",
+    "salario": 35500
+  },
+  {
+    "id": 314,
+    "nombre": "Ana",
+    "apellido": "Morales",
+    "departamento": "Mercadotecnia",
+    "salario": 41000
+  },
+  {
+    "id": 189,
+    "nombre": "Rodrigo",
+    "apellido": "Cortés",
+    "departamento": "Operaciones",
+    "salario": 29500
+  },
+  {
+    "id": 752,
+    "nombre": "Alejandra",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 19000
+  },
+  {
+    "id": 666,
+    "nombre": "Nicolás",
+    "apellido": "López",
+    "departamento": "Tecnología",
+    "salario": 66000
+  },
+  {
+    "id": 439,
+    "nombre": "Lucía",
+    "apellido": "Sánchez",
+    "departamento": "Ventas",
+    "salario": 29000
+  },
+  {
+    "id": 446,
+    "nombre": "Leonardo",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 67500
+  },
+  {
+    "id": 616,
+    "nombre": "Iván",
+    "apellido": "Cortés",
+    "departamento": "Operaciones",
+    "salario": 64000
+  },
+  {
+    "id": 725,
+    "nombre": "Montserrat",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 54000
+  },
+  {
+    "id": 251,
+    "nombre": "Sofía",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 33000
+  },
+  {
+    "id": 453,
+    "nombre": "Andrés",
+    "apellido": "Morales",
+    "departamento": "Tecnología",
+    "salario": 38500
+  },
+  {
+    "id": 516,
+    "nombre": "Rodrigo",
+    "apellido": "Jiménez",
+    "departamento": "Calidad",
+    "salario": 59000
+  },
+  {
+    "id": 940,
+    "nombre": "Julián",
+    "apellido": "Flores",
+    "departamento": "Tecnología",
+    "salario": 57500
+  },
+  {
+    "id": 184,
+    "nombre": "Daniela",
+    "apellido": "Ortiz",
+    "departamento": "Tecnología",
+    "salario": 38500
+  },
+  {
+    "id": 898,
+    "nombre": "Joaquín",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 43500
+  },
+  {
+    "id": 139,
+    "nombre": "Iván",
+    "apellido": "Martínez",
+    "departamento": "Ventas",
+    "salario": 17500
+  },
+  {
+    "id": 690,
+    "nombre": "Ana",
+    "apellido": "Reyes",
+    "departamento": "Mercadotecnia",
+    "salario": 20000
+  },
+  {
+    "id": 842,
+    "nombre": "Andrés",
+    "apellido": "Ríos",
+    "departamento": "Tecnología",
+    "salario": 49000
+  },
+  {
+    "id": 667,
+    "nombre": "Mateo",
+    "apellido": "Navarro",
+    "departamento": "Ventas",
+    "salario": 40500
+  },
+  {
+    "id": 945,
+    "nombre": "Julián",
+    "apellido": "Ríos",
+    "departamento": "Calidad",
+    "salario": 39000
+  },
+  {
+    "id": 710,
+    "nombre": "Mateo",
+    "apellido": "López",
+    "departamento": "Recursos Humanos",
+    "salario": 48000
+  },
+  {
+    "id": 620,
+    "nombre": "Tomás",
+    "apellido": "Cruz",
+    "departamento": "Finanzas",
+    "salario": 41500
+  },
+  {
+    "id": 665,
+    "nombre": "Héctor",
+    "apellido": "Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 45000
+  },
+  {
+    "id": 630,
+    "nombre": "Gabriela",
+    "apellido": "Paredes",
+    "departamento": "Finanzas",
+    "salario": 40500
+  },
+  {
+    "id": 660,
+    "nombre": "Sebastián",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 18000
+  },
+  {
+    "id": 353,
+    "nombre": "Andrés",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 60500
+  },
+  {
+    "id": 28,
+    "nombre": "Sebastián",
+    "apellido": "Paredes",
+    "departamento": "Mercadotecnia",
+    "salario": 53000
+  },
+  {
+    "id": 153,
+    "nombre": "Alejandra",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 23500
+  },
+  {
+    "id": 770,
+    "nombre": "Santiago",
+    "apellido": "Fuentes",
+    "departamento": "Ventas",
+    "salario": 16000
+  },
+  {
+    "id": 626,
+    "nombre": "Nicolás",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 23000
+  },
+  {
+    "id": 559,
+    "nombre": "Julián",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 29500
+  },
+  {
+    "id": 902,
+    "nombre": "Bruno",
+    "apellido": "Fuentes",
+    "departamento": "Recursos Humanos",
+    "salario": 24500
+  },
+  {
+    "id": 727,
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "departamento": "Calidad",
+    "salario": 31500
+  },
+  {
+    "id": 892,
+    "nombre": "Mateo",
+    "apellido": "Morales",
+    "departamento": "Ventas",
+    "salario": 21500
+  },
+  {
+    "id": 673,
+    "nombre": "Santiago",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 16500
+  },
+  {
+    "id": 814,
+    "nombre": "Mateo",
+    "apellido": "Ramírez",
+    "departamento": "Mercadotecnia",
+    "salario": 68500
+  },
+  {
+    "id": 686,
+    "nombre": "Emiliano",
+    "apellido": "Ríos",
+    "departamento": "Recursos Humanos",
+    "salario": 57500
+  },
+  {
+    "id": 970,
+    "nombre": "Tomás",
+    "apellido": "Rojas",
+    "departamento": "Recursos Humanos",
+    "salario": 33000
+  },
+  {
+    "id": 514,
+    "nombre": "Fernanda",
+    "apellido": "Cortés",
+    "departamento": "Recursos Humanos",
+    "salario": 57000
+  },
+  {
+    "id": 23,
+    "nombre": "Bruno",
+    "apellido": "García",
+    "departamento": "Calidad",
+    "salario": 42000
+  },
+  {
+    "id": 844,
+    "nombre": "Mariana",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 45000
+  },
+  {
+    "id": 179,
+    "nombre": "Mateo",
+    "apellido": "Rojas",
+    "departamento": "Producción",
+    "salario": 15500
+  },
+  {
+    "id": 924,
+    "nombre": "Sebastián",
+    "apellido": "Flores",
+    "departamento": "Mercadotecnia",
+    "salario": 49000
+  },
+  {
+    "id": 961,
+    "nombre": "Julián",
+    "apellido": "Mendoza",
+    "departamento": "Producción",
+    "salario": 61500
+  },
+  {
+    "id": 140,
+    "nombre": "Alejandro",
+    "apellido": "Soto",
+    "departamento": "Finanzas",
+    "salario": 41000
+  },
+  {
+    "id": 724,
+    "nombre": "Lucía",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 69500
+  },
+  {
+    "id": 755,
+    "nombre": "Camila",
+    "apellido": "Cortés",
+    "departamento": "Finanzas",
+    "salario": 47500
+  },
+  {
+    "id": 211,
+    "nombre": "Abril",
+    "apellido": "Flores",
+    "departamento": "Ventas",
+    "salario": 66500
+  },
+  {
+    "id": 947,
+    "nombre": "Bruno",
+    "apellido": "Cruz",
+    "departamento": "Operaciones",
+    "salario": 19000
+  },
+  {
+    "id": 504,
+    "nombre": "Diego",
+    "apellido": "Ríos",
+    "departamento": "Mercadotecnia",
+    "salario": 25000
+  },
+  {
+    "id": 998,
+    "nombre": "Mariana",
+    "apellido": "Flores",
+    "departamento": "Finanzas",
+    "salario": 51500
+  },
+  {
+    "id": 262,
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "departamento": "Operaciones",
+    "salario": 27000
+  },
+  {
+    "id": 989,
+    "nombre": "Mateo",
+    "apellido": "Luna",
+    "departamento": "Finanzas",
+    "salario": 67500
+  },
+  {
+    "id": 978,
+    "nombre": "Regina",
+    "apellido": "Luna",
+    "departamento": "Mercadotecnia",
+    "salario": 19000
+  },
+  {
+    "id": 103,
+    "nombre": "Valeria",
+    "apellido": "Vega",
+    "departamento": "Operaciones",
+    "salario": 31500
+  },
+  {
+    "id": 436,
+    "nombre": "Nicolás",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 20000
+  },
+  {
+    "id": 561,
+    "nombre": "Mariana",
+    "apellido": "Ortiz",
+    "departamento": "Producción",
+    "salario": 37000
+  },
+  {
+    "id": 254,
+    "nombre": "Héctor",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 41000
+  },
+  {
+    "id": 257,
+    "nombre": "Joaquín",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 31500
+  },
+  {
+    "id": 50,
+    "nombre": "Abril",
+    "apellido": "Luna",
+    "departamento": "Calidad",
+    "salario": 22500
+  },
+  {
+    "id": 528,
+    "nombre": "Sofía",
+    "apellido": "Martínez",
+    "departamento": "Mercadotecnia",
+    "salario": 54500
+  },
+  {
+    "id": 60,
+    "nombre": "Nicolás",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 22500
+  },
+  {
+    "id": 701,
+    "nombre": "Andrés",
+    "apellido": "López",
+    "departamento": "Calidad",
+    "salario": 44500
+  },
+  {
+    "id": 502,
+    "nombre": "Tomás",
+    "apellido": "Torres",
+    "departamento": "Tecnología",
+    "salario": 22500
+  },
+  {
+    "id": 39,
+    "nombre": "Julián",
+    "apellido": "Ortiz",
+    "departamento": "Recursos Humanos",
+    "salario": 21000
+  },
+  {
+    "id": 934,
+    "nombre": "Rodrigo",
+    "apellido": "Rojas",
+    "departamento": "Calidad",
+    "salario": 64000
+  },
+  {
+    "id": 681,
+    "nombre": "Ximena",
+    "apellido": "Medina",
+    "departamento": "Mercadotecnia",
+    "salario": 21000
+  },
+  {
+    "id": 650,
+    "nombre": "Daniela",
+    "apellido": "García",
+    "departamento": "Ventas",
+    "salario": 51000
+  },
+  {
+    "id": 581,
+    "nombre": "Abril",
+    "apellido": "Luna",
+    "departamento": "Ventas",
+    "salario": 57000
+  },
+  {
+    "id": 788,
+    "nombre": "Sofía",
+    "apellido": "Hernández",
+    "departamento": "Tecnología",
+    "salario": 28000
+  },
+  {
+    "id": 849,
+    "nombre": "Mateo",
+    "apellido": "Navarro",
+    "departamento": "Tecnología",
+    "salario": 61000
+  },
+  {
+    "id": 781,
+    "nombre": "Alejandro",
+    "apellido": "Cortés",
+    "departamento": "Recursos Humanos",
+    "salario": 59000
+  },
+  {
+    "id": 977,
+    "nombre": "Renata",
+    "apellido": "Fuentes",
+    "departamento": "Operaciones",
+    "salario": 60500
+  },
+  {
+    "id": 84,
+    "nombre": "Sebastián",
+    "apellido": "Mendoza",
+    "departamento": "Mercadotecnia",
+    "salario": 42000
+  },
+  {
+    "id": 832,
+    "nombre": "Alejandra",
+    "apellido": "Hernández",
+    "departamento": "Producción",
+    "salario": 28500
+  },
+  {
+    "id": 227,
+    "nombre": "Andrés",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 21500
+  },
+  {
+    "id": 608,
+    "nombre": "Mateo",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 61500
+  },
+  {
+    "id": 857,
+    "nombre": "Renata",
+    "apellido": "Ramírez",
+    "departamento": "Mercadotecnia",
+    "salario": 38500
+  },
+  {
+    "id": 560,
+    "nombre": "Paola",
+    "apellido": "Ríos",
+    "departamento": "Ventas",
+    "salario": 21500
+  },
+  {
+    "id": 404,
+    "nombre": "Héctor",
+    "apellido": "Jiménez",
+    "departamento": "Calidad",
+    "salario": 64000
+  },
+  {
+    "id": 859,
+    "nombre": "Alejandro",
+    "apellido": "Paredes",
+    "departamento": "Operaciones",
+    "salario": 20000
+  },
+  {
+    "id": 321,
+    "nombre": "Ximena",
+    "apellido": "Medina",
+    "departamento": "Operaciones",
+    "salario": 31500
+  },
+  {
+    "id": 142,
+    "nombre": "Sofía",
+    "apellido": "Escobar",
+    "departamento": "Ventas",
+    "salario": 34000
+  },
+  {
+    "id": 403,
+    "nombre": "Renata",
+    "apellido": "García",
+    "departamento": "Recursos Humanos",
+    "salario": 68000
+  },
+  {
+    "id": 232,
+    "nombre": "Abril",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 64000
+  },
+  {
+    "id": 927,
+    "nombre": "Alejandra",
+    "apellido": "Flores",
+    "departamento": "Operaciones",
+    "salario": 38000
+  },
+  {
+    "id": 487,
+    "nombre": "Sebastián",
+    "apellido": "Fuentes",
+    "departamento": "Tecnología",
+    "salario": 38500
+  },
+  {
+    "id": 823,
+    "nombre": "Tomás",
+    "apellido": "Fuentes",
+    "departamento": "Producción",
+    "salario": 65000
+  },
+  {
+    "id": 241,
+    "nombre": "Mariana",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 16000
+  },
+  {
+    "id": 896,
+    "nombre": "Ana",
+    "apellido": "Medina",
+    "departamento": "Finanzas",
+    "salario": 15500
+  },
+  {
+    "id": 939,
+    "nombre": "Nicolás",
+    "apellido": "Medina",
+    "departamento": "Calidad",
+    "salario": 64000
+  },
+  {
+    "id": 792,
+    "nombre": "Rodrigo",
+    "apellido": "García",
+    "departamento": "Mercadotecnia",
+    "salario": 67500
+  },
+  {
+    "id": 672,
+    "nombre": "Alejandro",
+    "apellido": "Salazar",
+    "departamento": "Recursos Humanos",
+    "salario": 35500
+  },
+  {
+    "id": 806,
+    "nombre": "Héctor",
+    "apellido": "Sánchez",
+    "departamento": "Tecnología",
+    "salario": 48000
+  },
+  {
+    "id": 311,
+    "nombre": "Rodrigo",
+    "apellido": "Escobar",
+    "departamento": "Producción",
+    "salario": 56000
+  },
+  {
+    "id": 382,
+    "nombre": "Camila",
+    "apellido": "Vega",
+    "departamento": "Tecnología",
+    "salario": 26000
+  },
+  {
+    "id": 501,
+    "nombre": "Mateo",
+    "apellido": "Navarro",
+    "departamento": "Operaciones",
+    "salario": 29000
+  },
+  {
+    "id": 791,
+    "nombre": "Lucía",
+    "apellido": "Mendoza",
+    "departamento": "Ventas",
+    "salario": 46000
+  },
+  {
+    "id": 67,
+    "nombre": "Héctor",
+    "apellido": "Cortés",
+    "departamento": "Finanzas",
+    "salario": 25500
+  },
+  {
+    "id": 208,
+    "nombre": "Alejandro",
+    "apellido": "Cruz",
+    "departamento": "Producción",
+    "salario": 68500
+  },
+  {
+    "id": 909,
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "departamento": "Finanzas",
+    "salario": 37500
+  },
+  {
+    "id": 641,
+    "nombre": "Gabriela",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 26500
+  },
+  {
+    "id": 214,
+    "nombre": "Sofía",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 17000
+  },
+  {
+    "id": 720,
+    "nombre": "Bruno",
+    "apellido": "Salazar",
+    "departamento": "Finanzas",
+    "salario": 21000
+  },
+  {
+    "id": 606,
+    "nombre": "Joaquín",
+    "apellido": "Luna",
+    "departamento": "Tecnología",
+    "salario": 15500
+  },
+  {
+    "id": 278,
+    "nombre": "Ana",
+    "apellido": "Flores",
+    "departamento": "Recursos Humanos",
+    "salario": 54000
+  },
+  {
+    "id": 664,
+    "nombre": "Ximena",
+    "apellido": "Torres",
+    "departamento": "Operaciones",
+    "salario": 63000
+  },
+  {
+    "id": 743,
+    "nombre": "Ximena",
+    "apellido": "Cruz",
+    "departamento": "Ventas",
+    "salario": 38500
+  },
+  {
+    "id": 141,
+    "nombre": "Renata",
+    "apellido": "Morales",
+    "departamento": "Operaciones",
+    "salario": 34500
+  },
+  {
+    "id": 268,
+    "nombre": "Valeria",
+    "apellido": "Sánchez",
+    "departamento": "Operaciones",
+    "salario": 37000
+  },
+  {
+    "id": 46,
+    "nombre": "Bruno",
+    "apellido": "Ríos",
+    "departamento": "Finanzas",
+    "salario": 31500
+  },
+  {
+    "id": 753,
+    "nombre": "Ximena",
+    "apellido": "Ramírez",
+    "departamento": "Calidad",
+    "salario": 17000
+  },
+  {
+    "id": 102,
+    "nombre": "Emiliano",
+    "apellido": "Ríos",
+    "departamento": "Producción",
+    "salario": 54500
+  },
+  {
+    "id": 661,
+    "nombre": "Rodrigo",
+    "apellido": "Sánchez",
+    "departamento": "Calidad",
+    "salario": 49000
+  },
+  {
+    "id": 305,
+    "nombre": "Ximena",
+    "apellido": "Medina",
+    "departamento": "Operaciones",
+    "salario": 67500
+  },
+  {
+    "id": 418,
+    "nombre": "Mariana",
+    "apellido": "Flores",
+    "departamento": "Finanzas",
+    "salario": 33000
+  },
+  {
+    "id": 383,
+    "nombre": "Paola",
+    "apellido": "Jiménez",
+    "departamento": "Recursos Humanos",
+    "salario": 41000
+  },
+  {
+    "id": 83,
+    "nombre": "Regina",
+    "apellido": "Salazar",
+    "departamento": "Producción",
+    "salario": 56500
+  },
+  {
+    "id": 231,
+    "nombre": "Alejandro",
+    "apellido": "Reyes",
+    "departamento": "Calidad",
+    "salario": 32500
+  },
+  {
+    "id": 591,
+    "nombre": "Fernanda",
+    "apellido": "Salazar",
+    "departamento": "Calidad",
+    "salario": 55000
+  },
+  {
+    "id": 741,
+    "nombre": "Sebastián",
+    "apellido": "Paredes",
+    "departamento": "Calidad",
+    "salario": 21500
+  },
+  {
+    "id": 123,
+    "nombre": "Bruno",
+    "apellido": "Luna",
+    "departamento": "Finanzas",
+    "salario": 58000
+  },
+  {
+    "id": 437,
+    "nombre": "Leonardo",
+    "apellido": "Vega",
+    "departamento": "Tecnología",
+    "salario": 40000
+  },
+  {
+    "id": 242,
+    "nombre": "Fernanda",
+    "apellido": "Ortiz",
+    "departamento": "Calidad",
+    "salario": 56500
+  },
+  {
+    "id": 401,
+    "nombre": "Emiliano",
+    "apellido": "Ramírez",
+    "departamento": "Recursos Humanos",
+    "salario": 43000
+  }
+]
