@@ -76,3 +76,21 @@ td {
   border: 1px solid #ccc;
   text-align: left;
 }
+
+dialog {
+  width: min(720px, calc(100% - 32px));
+  padding: 16px;
+  border: 1px solid #ccc;
+}
+
+/* La tabla se desplaza sola: el título y Cerrar siempre quedan a la vista. */
+dialog table {
+  max-height: 65vh;
+  overflow-y: auto;
+}
+
+dialog th {
+  position: sticky;
+  top: 0;
+  background: #fff;
+}

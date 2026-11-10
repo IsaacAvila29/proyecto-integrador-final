@@ -60,6 +60,7 @@ export default function Page() {
   const [indice, setIndice] = useState(-1);
   const [mensaje, setMensaje] = useState("");
   const [filas, setFilas] = useState<string[][]>([]);
+  const [verLista, setVerLista] = useState(false);
 
   function cambiarLista(lista: string) {
     setListaElegida(lista);
@@ -116,6 +117,11 @@ export default function Page() {
           . Primeros ids: {usuarios[0].id}, {usuarios[1].id}, {usuarios[2].id}, {usuarios[3].id},{" "}
           {usuarios[4].id}
         </p>
+        <p>
+          <button type="button" onClick={() => setVerLista(true)}>
+            Ver lista de usuarios
+          </button>
+        </p>
         <form onSubmit={buscar} noValidate>
           <label htmlFor="id-usuario">Id del usuario:</label>
           <input
@@ -170,6 +176,46 @@ export default function Page() {
           </table>
         )}
       </section>
+
+      {/* La tabla solo existe mientras la ventana está abierta. */}
+      {verLista && (
+        <dialog
+          ref={(ventana) => {
+            if (ventana && !ventana.open) ventana.showModal();
+          }}
+          onClose={() => setVerLista(false)}
+        >
+          <h2>
+            {listaElegida === "secuenciales" ? "Ids secuenciales" : "Ids no secuenciales"} (
+            {usuarios.length} usuarios)
+          </h2>
+          <button type="button" onClick={() => setVerLista(false)}>
+            Cerrar
+          </button>
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Departamento</th>
+                <th>Salario</th>
+              </tr>
+            </thead>
+            <tbody>
+              {usuarios.map((usuario) => (
+                <tr key={usuario.id}>
+                  <td>{usuario.id}</td>
+                  <td>{usuario.nombre}</td>
+                  <td>{usuario.apellido}</td>
+                  <td>{usuario.departamento}</td>
+                  <td>${usuario.salario}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </dialog>
+      )}
     </main>
   );
 }
